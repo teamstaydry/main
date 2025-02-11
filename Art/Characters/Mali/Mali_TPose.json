@@ -1,0 +1,3577 @@
+{
+    "Mali_TPose": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/Florian/Projet Perso/Stay Dry/Reallusion/Mali_TPose",
+        "Object": {
+            "Mali_TPose": {
+                "Generation": "RL_CC3_Plus",
+                "Physics": {
+                    "Collision Shapes": {
+                        "root": {},
+                        "pelvis": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -5.456727504730225,
+                                    3.551863670349121,
+                                    94.31940460205078
+                                ],
+                                "WorldRotationQ": [
+                                    0.8131799101829529,
+                                    0.07507059723138809,
+                                    -0.10679523646831513,
+                                    0.5671840310096741
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 8.692731857299805,
+                                "Capsule Length": 24.91979217529297
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    5.457940578460693,
+                                    3.551877975463867,
+                                    94.319091796875
+                                ],
+                                "WorldRotationQ": [
+                                    0.8131829500198364,
+                                    -0.07505325227975846,
+                                    0.1067725345492363,
+                                    0.5671861171722412
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    0.9999999403953552,
+                                    1.0
+                                ],
+                                "Radius": 8.692731857299805,
+                                "Capsule Length": 24.91979217529297
+                            }
+                        },
+                        "cc_base_pelvis": {},
+                        "spine_01": {},
+                        "spine_02": {
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0006196725298650563,
+                                    2.7290735244750978,
+                                    115.47112274169922
+                                ],
+                                "WorldRotationQ": [
+                                    0.449924498796463,
+                                    0.5454980731010437,
+                                    0.44992437958717348,
+                                    0.5454978942871094
+                                ],
+                                "WorldScale": [
+                                    1.000000238418579,
+                                    1.000000238418579,
+                                    1.0
+                                ],
+                                "Radius": 12.009807586669922,
+                                "Capsule Length": 5.229335784912109
+                            }
+                        },
+                        "spine_03": {},
+                        "neck_01": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0006425794563256204,
+                                    6.8138837814331059,
+                                    141.1131134033203
+                                ],
+                                "WorldRotationQ": [
+                                    0.7887658476829529,
+                                    0.0,
+                                    0.0,
+                                    0.614693820476532
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Radius": 5.2611188888549809,
+                                "Capsule Length": 5.3052263259887699
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0030620505567640068,
+                                    6.643072128295898,
+                                    127.42236328125
+                                ],
+                                "WorldRotationQ": [
+                                    0.557741641998291,
+                                    0.434654176235199,
+                                    0.557741641998291,
+                                    0.434654176235199
+                                ],
+                                "WorldScale": [
+                                    0.9999999403953552,
+                                    1.0,
+                                    0.9999999403953552
+                                ],
+                                "Radius": 10.932319641113282,
+                                "Capsule Length": 13.708881378173829
+                            },
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -6.998361587524414,
+                                    2.226564884185791,
+                                    124.74571990966797
+                                ],
+                                "WorldRotationQ": [
+                                    0.3225453495979309,
+                                    0.6292571425437927,
+                                    0.3225453495979309,
+                                    0.629257082939148
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Radius": 7.259902000427246,
+                                "Capsule Length": 13.24941635131836
+                            },
+                            "Capsule(2)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    7.001638412475586,
+                                    2.226564884185791,
+                                    124.74571990966797
+                                ],
+                                "WorldRotationQ": [
+                                    0.3225453495979309,
+                                    0.6292571425437927,
+                                    0.3225453495979309,
+                                    0.629257082939148
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Radius": 7.259902000427246,
+                                "Capsule Length": 13.24941635131836
+                            }
+                        },
+                        "cc_base_necktwist02": {},
+                        "head": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0007136182393878698,
+                                    3.9257819652557375,
+                                    155.20278930664063
+                                ],
+                                "WorldRotationQ": [
+                                    0.7099535465240479,
+                                    5.2459675714544576e-8,
+                                    -5.248827150694524e-8,
+                                    0.7042484879493713
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Radius": 7.414432525634766,
+                                "Capsule Length": 6.968162536621094
+                            }
+                        },
+                        "cc_base_facialbone": {},
+                        "cc_base_jawroot": {},
+                        "cc_base_tongue01": {},
+                        "cc_base_tongue02": {},
+                        "cc_base_tongue03": {},
+                        "cc_base_teeth02": {},
+                        "cc_base_r_eye": {},
+                        "cc_base_l_eye": {},
+                        "cc_base_upperjaw": {},
+                        "cc_base_teeth01": {},
+                        "clavicle_l": {},
+                        "upperarm_l": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    19.771337509155275,
+                                    10.633824348449707,
+                                    122.45401763916016
+                                ],
+                                "WorldRotationQ": [
+                                    0.20419466495513917,
+                                    0.6777921319007874,
+                                    -0.6389454007148743,
+                                    0.30108338594436648
+                                ],
+                                "WorldScale": [
+                                    0.9999999403953552,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Radius": 5.045426368713379,
+                                "Capsule Length": 22.943689346313478
+                            }
+                        },
+                        "lowerarm_l": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    38.30699920654297,
+                                    7.127297878265381,
+                                    106.10740661621094
+                                ],
+                                "WorldRotationQ": [
+                                    -0.3205870985984802,
+                                    -0.47482365369796755,
+                                    0.7769731283187866,
+                                    -0.2609197795391083
+                                ],
+                                "WorldScale": [
+                                    0.9999999403953552,
+                                    0.9999997615814209,
+                                    0.9999999403953552
+                                ],
+                                "Radius": 4.368337631225586,
+                                "Capsule Length": 21.781400680541993
+                            }
+                        },
+                        "cc_base_l_forearmtwist01": {},
+                        "cc_base_l_elbowsharebone": {},
+                        "hand_l": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    50.53446578979492,
+                                    -0.5275418758392334,
+                                    95.85607147216797
+                                ],
+                                "WorldRotationQ": [
+                                    -0.3398129940032959,
+                                    -0.5624909400939941,
+                                    0.7132115960121155,
+                                    -0.2438446581363678
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.000000238418579,
+                                    0.9999998807907105
+                                ],
+                                "Extent": [
+                                    4.522909164428711,
+                                    9.57201862335205,
+                                    8.070645332336426
+                                ]
+                            }
+                        },
+                        "pinky_01_l": {},
+                        "pinky_02_l": {},
+                        "pinky_03_l": {},
+                        "ring_01_l": {},
+                        "ring_02_l": {},
+                        "ring_03_l": {},
+                        "middle_01_l": {},
+                        "middle_02_l": {},
+                        "middle_03_l": {},
+                        "index_01_l": {},
+                        "index_02_l": {},
+                        "index_03_l": {},
+                        "thumb_01_l": {},
+                        "thumb_02_l": {},
+                        "thumb_03_l": {},
+                        "lowerarm_twist_01_l": {},
+                        "upperarm_twist_01_l": {},
+                        "cc_base_l_upperarmtwist02": {},
+                        "cc_base_l_ribstwist": {},
+                        "cc_base_l_breast": {},
+                        "cc_base_r_ribstwist": {},
+                        "cc_base_r_breast": {},
+                        "clavicle_r": {},
+                        "upperarm_r": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -19.789520263671876,
+                                    10.632060050964356,
+                                    122.47124481201172
+                                ],
+                                "WorldRotationQ": [
+                                    -0.20510147511959077,
+                                    0.6776241064071655,
+                                    -0.6388499736785889,
+                                    -0.30104777216911318
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    0.9999999403953552
+                                ],
+                                "Radius": 5.0451860427856449,
+                                "Capsule Length": 22.95778465270996
+                            }
+                        },
+                        "lowerarm_r": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -38.34166717529297,
+                                    7.111523628234863,
+                                    106.16696166992188
+                                ],
+                                "WorldRotationQ": [
+                                    0.3218086361885071,
+                                    -0.4743965268135071,
+                                    0.7766578197479248,
+                                    0.26113176345825198
+                                ],
+                                "WorldScale": [
+                                    0.9999998807907105,
+                                    0.9999996423721314,
+                                    1.0
+                                ],
+                                "Radius": 4.368197441101074,
+                                "Capsule Length": 21.76650047302246
+                            }
+                        },
+                        "cc_base_r_elbowsharebone": {},
+                        "cc_base_r_forearmtwist01": {},
+                        "hand_r": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -50.64619445800781,
+                                    -0.3025660514831543,
+                                    95.88127136230469
+                                ],
+                                "WorldRotationQ": [
+                                    0.3408769369125366,
+                                    -0.561697781085968,
+                                    0.7131280899047852,
+                                    0.2444314956665039
+                                ],
+                                "WorldScale": [
+                                    1.000000238418579,
+                                    1.000000238418579,
+                                    1.0000001192092896
+                                ],
+                                "Extent": [
+                                    5.314797401428223,
+                                    9.573322296142579,
+                                    8.195562362670899
+                                ]
+                            }
+                        },
+                        "ring_01_r": {},
+                        "ring_02_r": {},
+                        "ring_03_r": {},
+                        "middle_01_r": {},
+                        "middle_02_r": {},
+                        "middle_03_r": {},
+                        "thumb_01_r": {},
+                        "thumb_02_r": {},
+                        "thumb_03_r": {},
+                        "index_01_r": {},
+                        "index_02_r": {},
+                        "index_03_r": {},
+                        "pinky_01_r": {},
+                        "pinky_02_r": {},
+                        "pinky_03_r": {},
+                        "lowerarm_twist_01_r": {},
+                        "upperarm_twist_01_r": {},
+                        "cc_base_r_upperarmtwist02": {},
+                        "thigh_l": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    11.128761291503907,
+                                    1.5433706045150757,
+                                    64.98892211914063
+                                ],
+                                "WorldRotationQ": [
+                                    0.01768014207482338,
+                                    0.7207078337669373,
+                                    -0.6928566694259644,
+                                    0.014742362312972546
+                                ],
+                                "WorldScale": [
+                                    0.9999997019767761,
+                                    0.9999996423721314,
+                                    1.0
+                                ],
+                                "Radius": 7.471281051635742,
+                                "Capsule Length": 42.28237533569336
+                            }
+                        },
+                        "calf_l": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    15.023573875427246,
+                                    6.672945022583008,
+                                    23.96285629272461
+                                ],
+                                "WorldRotationQ": [
+                                    0.024253442883491517,
+                                    0.7615606188774109,
+                                    -0.6468386650085449,
+                                    0.03220216929912567
+                                ],
+                                "WorldScale": [
+                                    0.9999998807907105,
+                                    1.0,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 6.164678573608398,
+                                "Capsule Length": 35.07791519165039
+                            }
+                        },
+                        "foot_l": {},
+                        "cc_base_l_toebasesharebone": {},
+                        "ball_l": {},
+                        "cc_base_l_pinkytoe1": {},
+                        "cc_base_l_ringtoe1": {},
+                        "cc_base_l_midtoe1": {},
+                        "cc_base_l_indextoe1": {},
+                        "cc_base_l_bigtoe1": {},
+                        "calf_twist_01_l": {},
+                        "cc_base_l_kneesharebone": {},
+                        "cc_base_l_calftwist02": {},
+                        "thigh_twist_01_l": {},
+                        "cc_base_l_thightwist02": {},
+                        "thigh_r": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -11.127517700195313,
+                                    1.5430419445037842,
+                                    64.98873901367188
+                                ],
+                                "WorldRotationQ": [
+                                    -0.017636673524975778,
+                                    0.720741331577301,
+                                    -0.6928237676620483,
+                                    -0.01470185536891222
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    0.9999999403953552
+                                ],
+                                "Radius": 7.438782691955566,
+                                "Capsule Length": 42.34204864501953
+                            }
+                        },
+                        "calf_r": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -15.017422676086426,
+                                    6.765000343322754,
+                                    23.976451873779298
+                                ],
+                                "WorldRotationQ": [
+                                    -0.02428545244038105,
+                                    0.7614971399307251,
+                                    -0.6469064950942993,
+                                    -0.0323171466588974
+                                ],
+                                "WorldScale": [
+                                    0.9999998807907105,
+                                    1.000000238418579,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 6.154087066650391,
+                                "Capsule Length": 35.09910202026367
+                            }
+                        },
+                        "cc_base_r_kneesharebone": {},
+                        "foot_r": {},
+                        "ball_r": {},
+                        "cc_base_r_bigtoe1": {},
+                        "cc_base_r_pinkytoe1": {},
+                        "cc_base_r_ringtoe1": {},
+                        "cc_base_r_indextoe1": {},
+                        "cc_base_r_midtoe1": {},
+                        "cc_base_r_toebasesharebone": {},
+                        "calf_twist_01_r": {},
+                        "cc_base_r_calftwist02": {},
+                        "thigh_twist_01_r": {},
+                        "cc_base_r_thightwist02": {},
+                        "ik_foot_root": {},
+                        "ik_foot_r": {},
+                        "ik_foot_l": {},
+                        "ik_hand_root": {},
+                        "ik_hand_gun": {},
+                        "ik_hand_r": {},
+                        "ik_hand_l": {},
+                        "cc_base_tongue": {},
+                        "cc_base_body": {},
+                        "cc_base_eye": {},
+                        "cc_base_tearline": {},
+                        "cc_base_eyeocclusion": {},
+                        "cc_toon_teeth_01": {},
+                        "canvas_shoes": {},
+                        "rocker_jeans": {},
+                        "turtleneck_sweater": {},
+                        "eyebrows": {},
+                        "side_part_wavy": {}
+                    },
+                    "Soft Physics": {
+                        "Meshes": {
+                            "Side_part_wavy": {
+                                "Materials": {
+                                    "Hair_Transparency": {
+                                        "Activate Physics": true,
+                                        "Use Global Gravity": true,
+                                        "Weight Map Path": "./textures/Mali_TPose/side_part_wavy/Side_part_wavy/Hair_Transparency/Hair_Transparency_WeightMap.jpg",
+                                        "Mass": 1.0,
+                                        "Friction": 0.20000000298023225,
+                                        "Damping": 0.30000001192092898,
+                                        "Drag": 0.20000000298023225,
+                                        "Solver Frequency": 150.0,
+                                        "Tether Limit": 1.0,
+                                        "Elasticity": 52.0,
+                                        "Stretch": 50.0,
+                                        "Bending": 0.0,
+                                        "Inertia": [
+                                            8.0,
+                                            8.0,
+                                            8.0
+                                        ],
+                                        "Soft Vs Rigid Collision": true,
+                                        "Soft Vs Rigid Collision_Margin": 2.0,
+                                        "Self Collision": false,
+                                        "Self Collision Margin": 0.0,
+                                        "Stiffness Frequency": 15.0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Meshes": {
+                    "CC_Base_Tongue": {
+                        "Materials": {
+                            "Std_Tongue": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Tongue_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Tongue_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLTongue",
+                                    "Image": {
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
+                                        },
+                                        "Gradient AO": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_GradAO.jpg"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 4.0,
+                                        "MicroNormal Strength": 0.5,
+                                        "_Brightness": 1.0,
+                                        "_Desaturation": 0.05000000074505806,
+                                        "Front Roughness": 1.0,
+                                        "Front Specular": 0.2590000033378601,
+                                        "Back Roughness": 1.0,
+                                        "Back Specular": 0.0,
+                                        "Front AO": 1.0,
+                                        "Back AO": 0.0,
+                                        "_Scatter": 1.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        255.0,
+                                        255.0
+                                    ],
+                                    "Radius": 1.0,
+                                    "Distribution": 0.9300000071525574,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8999999761581421
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_Body": {
+                        "Materials": {
+                            "Std_Skin_Head": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Head_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Head_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {
+                                    "Position": {
+                                        "Texture Path": ""
+                                    },
+                                    "WSNormal": {
+                                        "Texture Path": ""
+                                    }
+                                },
+                                "Custom Shader": {
+                                    "Shader Name": "RLHead",
+                                    "Image": {
+                                        "Specular Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SpecMask.jpg"
+                                        },
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_TransMap.png"
+                                        },
+                                        "Mouth Cavity Mask and AO": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MNAOMask.tga"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SSSMap.jpg"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
+                                        },
+                                        "Cheek Fore UpperLip Chin Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_CFULCMask.tga"
+                                        },
+                                        "Ear Neck Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ENMask.tga"
+                                        },
+                                        "Nose Mouth UpperInnerLid Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NMUILMask.tga"
+                                        },
+                                        "BaseColor Blend2": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_BCBMap.jpg"
+                                        },
+                                        "NormalMap Blend": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NBMap.jpg"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MicroNMask.jpg"
+                                        },
+                                        "Blend Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Blend Mask.png"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "BaseColor Blend2 Strength": 0.0,
+                                        "NormalMap Blend Strength": 0.5,
+                                        "_BaseColorMap Brightness": 0.0,
+                                        "_BaseColorMap Saturation": 0.0,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 20.0,
+                                        "MicroNormal Strength": 0.800000011920929,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.3179999887943268,
+                                        "Nose Roughness Scale": -0.07199999690055847,
+                                        "Mouth Roughness Scale": -0.05000000074505806,
+                                        "UpperLid Roughness Scale": -0.30000001192092898,
+                                        "InnerLid Roughness Scale": -0.5,
+                                        "Ear Roughness Scale": -0.1770000010728836,
+                                        "Neck Roughness Scale": -0.1770000010728836,
+                                        "Cheek Roughness Scale": -0.15800000727176667,
+                                        "Forehead Roughness Scale": -0.14900000393390656,
+                                        "UpperLip Roughness Scale": -0.07199999690055847,
+                                        "Chin Roughness Scale": -0.2160000056028366,
+                                        "Unmasked Roughness Scale": -0.10999999940395355,
+                                        "Edge Roughness Multiplier": 0.04399999976158142,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "Inner Mouth Ao": 2.5,
+                                        "Nostril Ao": 3.5,
+                                        "Lips Gap Ao": 0.0,
+                                        "Nose Scatter Scale": 1.0,
+                                        "Mouth Scatter Scale": 1.0,
+                                        "UpperLid Scatter Scale": 1.0,
+                                        "InnerLid Scatter Scale": 1.0,
+                                        "Ear Scatter Scale": 1.0,
+                                        "Neck Scatter Scale": 1.0,
+                                        "Cheek Scatter Scale": 1.0,
+                                        "Forehead Scatter Scale": 1.0,
+                                        "UpperLip Scatter Scale": 1.0,
+                                        "Chin Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 1.0,
+                                        "_Active Blend Map": 0.0,
+                                        "padding ActiveBlend": 0.0,
+                                        "_Blend Map Color": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 1.0,
+                                        "_Skin Color Range": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Range": 0.08500000089406967,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 25.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 2.0,
+                                    "Distribution": 0.4000000059604645,
+                                    "IOR": 3.0,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                },
+                                "Wrinkle": {
+                                    "Textures": {
+                                        "Diffuse_1": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Diffuse1.png"
+                                        },
+                                        "Diffuse_2": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Diffuse2.png"
+                                        },
+                                        "Diffuse_3": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Diffuse3.png"
+                                        },
+                                        "Normal_1": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Normal1.png"
+                                        },
+                                        "Normal_2": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Normal2.png"
+                                        },
+                                        "Normal_3": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Normal3.png"
+                                        },
+                                        "Roughness_1": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Roughness1.png"
+                                        },
+                                        "Roughness_2": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Roughness2.png"
+                                        },
+                                        "Roughness_3": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Roughness3.png"
+                                        },
+                                        "Flow_1": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Flow1.jpg"
+                                        },
+                                        "Flow_2": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Flow2.jpg"
+                                        },
+                                        "Flow_3": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Flow3.jpg"
+                                        }
+                                    },
+                                    "WrinkleRules": [
+                                        "head_wm1_normal_head_wm1_blink_L",
+                                        "head_wm1_normal_head_wm1_blink_R",
+                                        "head_wm1_normal_head_wm1_browRaiseInner_L",
+                                        "head_wm1_normal_head_wm1_browRaiseInner_R",
+                                        "head_wm1_normal_head_wm1_browRaiseOuter_L",
+                                        "head_wm1_normal_head_wm1_browRaiseOuter_R",
+                                        "head_wm1_normal_head_wm1_chinRaise_L",
+                                        "head_wm1_normal_head_wm1_chinRaise_R",
+                                        "head_wm1_normal_head_wm1_jawOpen",
+                                        "head_wm1_normal_head_wm1_purse_DL",
+                                        "head_wm1_normal_head_wm1_purse_DR",
+                                        "head_wm1_normal_head_wm1_purse_UL",
+                                        "head_wm1_normal_head_wm1_purse_UR",
+                                        "head_wm1_normal_head_wm1_squintInner_L",
+                                        "head_wm1_normal_head_wm1_squintInner_R",
+                                        "head_wm2_normal_head_wm2_browsDown_L",
+                                        "head_wm2_normal_head_wm2_browsDown_R",
+                                        "head_wm2_normal_head_wm2_browsLateral_L",
+                                        "head_wm2_normal_head_wm2_browsLateral_R",
+                                        "head_wm2_normal_head_wm2_mouthStretch_L",
+                                        "head_wm2_normal_head_wm2_mouthStretch_R",
+                                        "head_wm2_normal_head_wm2_neckStretch_L",
+                                        "head_wm2_normal_head_wm2_neckStretch_R",
+                                        "head_wm2_normal_head_wm2_noseWrinkler_L",
+                                        "head_wm2_normal_head_wm2_noseWrinkler_R",
+                                        "head_wm3_normal_head_wm3_cheekRaiseInner_L",
+                                        "head_wm3_normal_head_wm3_cheekRaiseInner_R",
+                                        "head_wm3_normal_head_wm3_cheekRaiseOuter_L",
+                                        "head_wm3_normal_head_wm3_cheekRaiseOuter_R",
+                                        "head_wm3_normal_head_wm3_cheekRaiseUpper_L",
+                                        "head_wm3_normal_head_wm3_cheekRaiseUpper_R",
+                                        "head_wm3_normal_head_wm3_smile_L",
+                                        "head_wm3_normal_head_wm3_smile_R",
+                                        "head_wm3_normal_head_wm13_lips_DL",
+                                        "head_wm3_normal_head_wm13_lips_DR",
+                                        "head_wm3_normal_head_wm13_lips_UL",
+                                        "head_wm3_normal_head_wm13_lips_UR",
+                                        "head_wm1_normal_head_wm13_lips_DL",
+                                        "head_wm1_normal_head_wm13_lips_DR",
+                                        "head_wm1_normal_head_wm13_lips_UL",
+                                        "head_wm1_normal_head_wm13_lips_UR",
+                                        "head_wm2_normal_head_wm2_noseCrease_L",
+                                        "head_wm2_normal_head_wm2_noseCrease_R",
+                                        "head_wm3_normal_head_wm3_browRaiseCorrection_L",
+                                        "head_wm3_normal_head_wm3_browRaiseCorrection_R",
+                                        "head_wm3_normal_head_wm3_smileNoseCrease_L",
+                                        "head_wm3_normal_head_wm3_smileNoseCrease_R"
+                                    ],
+                                    "WrinkleEaseStrength": [
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0
+                                    ],
+                                    "WrinkleRuleWeights": [
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        0.23999999463558198,
+                                        0.23999999463558198,
+                                        1.0,
+                                        0.12999999523162843,
+                                        0.12999999523162843,
+                                        0.12999999523162843,
+                                        0.12999999523162843,
+                                        0.25,
+                                        0.25,
+                                        0.1599999964237213,
+                                        0.1599999964237213,
+                                        0.1599999964237213,
+                                        0.1599999964237213,
+                                        0.28999999165534975,
+                                        0.28999999165534975,
+                                        1.0,
+                                        1.0,
+                                        0.25,
+                                        0.25,
+                                        0.0,
+                                        0.0,
+                                        0.0,
+                                        0.0,
+                                        0.0,
+                                        0.0,
+                                        0.23999999463558198,
+                                        0.23999999463558198,
+                                        0.23999999463558198,
+                                        0.23999999463558198,
+                                        0.23999999463558198,
+                                        0.23999999463558198,
+                                        0.12999999523162843,
+                                        0.12999999523162843,
+                                        0.12999999523162843,
+                                        0.12999999523162843,
+                                        0.2199999988079071,
+                                        0.2199999988079071,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "WrinkleOverallWeight": 1.0
+                                }
+                            },
+                            "Std_Skin_Body": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Body_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Body_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {
+                                    "Position": {
+                                        "Texture Path": ""
+                                    },
+                                    "WSNormal": {
+                                        "Texture Path": ""
+                                    }
+                                },
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_TransMap.png"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_RGBAMask.tga"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_SSSMap.png"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_MicroNMask.jpg"
+                                        },
+                                        "Blend Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_Blend Mask.png"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": 0.0,
+                                        "_BaseColorMap Saturation": 0.0,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.3179999887943268,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.10000000149011612,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 1.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 1.0,
+                                        "_Skin Color Range": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Range": 0.08500000089406967,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 25.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.7429999709129334,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Skin_Arm": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Arm_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Arm_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {
+                                    "Position": {
+                                        "Texture Path": ""
+                                    },
+                                    "WSNormal": {
+                                        "Texture Path": ""
+                                    }
+                                },
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_TransMap.png"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_RGBAMask.tga"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_SSSMap.png"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_MicroNMask.jpg"
+                                        },
+                                        "Blend Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_Blend Mask.png"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": 0.0,
+                                        "_BaseColorMap Saturation": 0.0,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.3179999887943268,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.10000000149011612,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 1.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 1.0,
+                                        "_Skin Color Range": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Range": 0.08500000089406967,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 25.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.7429999709129334,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Skin_Leg": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Leg_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Skin_Leg_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {
+                                    "Position": {
+                                        "Texture Path": ""
+                                    },
+                                    "WSNormal": {
+                                        "Texture Path": ""
+                                    }
+                                },
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_TransMap.png"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_RGBAMask.tga"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_SSSMap.png"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroNMask.jpg"
+                                        },
+                                        "Blend Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_Blend Mask.png"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": 0.0,
+                                        "_BaseColorMap Saturation": 0.0,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.3179999887943268,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.10000000149011612,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 1.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 1.0,
+                                        "_Skin Color Range": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Range": 0.08500000089406967,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 25.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.7429999709129334,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Nails": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    68.6969985961914,
+                                    68.6969985961914,
+                                    68.6969985961914
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Nails_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Nails_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Nails/Std_Nails_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {
+                                    "Position": {
+                                        "Texture Path": ""
+                                    },
+                                    "WSNormal": {
+                                        "Texture Path": ""
+                                    }
+                                },
+                                "Custom Shader": {
+                                    "Shader Name": "RLSkin",
+                                    "Image": {
+                                        "Transmission Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Nails/Std_Nails_TransMap.png"
+                                        },
+                                        "RGBA Area Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Nails/Std_Nails_RGBAMask.tga"
+                                        },
+                                        "SSS Map": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Nails/Std_Nails_SSSMap.jpg"
+                                        },
+                                        "MicroNormal": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
+                                        },
+                                        "MicroNormalMask": {
+                                            "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Nails/Std_Nails_MicroNMask.jpg"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "_BaseColorMap Brightness": 0.0,
+                                        "_BaseColorMap Saturation": 0.0,
+                                        "Flip MicroNormal Y": 1.0,
+                                        "MicroNormal Tiling": 42.0,
+                                        "MicroNormal Strength": 1.0,
+                                        "Keep Original Roughness": 0.0,
+                                        "Micro Roughness Scale": 0.3179999887943268,
+                                        "R Channel Roughness Scale": 0.0,
+                                        "G Channel Roughness Scale": 0.0,
+                                        "B Channel Roughness Scale": 0.0,
+                                        "A Channel Roughness Scale": 0.0,
+                                        "Unmasked Roughness Scale": 0.0,
+                                        "Edge Roughness Multiplier": 0.10000000149011612,
+                                        "_Specular": 0.4000000059604645,
+                                        "SSS Metallic Threshold": 1.0,
+                                        "R Channel Scatter Scale": 1.0,
+                                        "G Channel Scatter Scale": 1.0,
+                                        "B Channel Scatter Scale": 1.0,
+                                        "A Channel Scatter Scale": 1.0,
+                                        "Unmasked Scatter Scale": 1.0,
+                                        "_Active Human Color": 1.0,
+                                        "_Active Blend Map": 0.0,
+                                        "_Blend Map Color": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Blend Map Strength": 0.20000000298023225,
+                                        "_Active": 1.0,
+                                        "_Skin Color Range": [
+                                            247.35000610351563,
+                                            201.45001220703126,
+                                            155.5500030517578
+                                        ],
+                                        "_Range": 0.08500000089406967,
+                                        "_Skin Preset": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "_Red": 24.0,
+                                        "_Yellow": 22.0,
+                                        "_Black": 25.0,
+                                        "padding Last": 0.0
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        94.3499984741211,
+                                        76.5
+                                    ],
+                                    "Radius": 1.5,
+                                    "Distribution": 0.7429999709129334,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 0.15000000596046449,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Eyelash": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eyelash_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eyelash_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eyelash_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/Mali_TPose/CC_Base_Body/Std_Eyelash/Std_Eyelash_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {
+                                    "Position": {
+                                        "Texture Path": ""
+                                    },
+                                    "WSNormal": {
+                                        "Texture Path": ""
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_Eye": {
+                        "Materials": {
+                            "Std_Eye_R": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    50.000003814697269,
+                                    50.000003814697269,
+                                    50.000003814697269
+                                ],
+                                "Specular Color": [
+                                    229.00001525878907,
+                                    229.00001525878907,
+                                    229.00001525878907
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_R_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_R_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Eye_R/Std_Eye_R_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "Std_Cornea_R": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    50.000003814697269,
+                                    50.000003814697269,
+                                    50.000003814697269
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 0.800000011920929,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Cornea_R_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 50.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEye",
+                                    "Image": {
+                                        "Iris Normal": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                        },
+                                        "Sclera Normal": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                        },
+                                        "EyeBlendMap2": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                        },
+                                        "Inner Iris Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                        },
+                                        "Sclera": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_Sclera.jpg"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "BlendMap2 Strength": 0.0,
+                                        "Shadow Radius": 0.4000000059604645,
+                                        "Shadow Hardness": 0.5,
+                                        "Specular Scale": 0.800000011920929,
+                                        "Is Left Eye": 1.0,
+                                        "Eye Corner Darkness Color": [
+                                            255.0,
+                                            187.9860076904297,
+                                            178.9998016357422
+                                        ],
+                                        "Iris Depth Scale": 0.8999999761581421,
+                                        "_Iris Roughness": 0.0,
+                                        "Iris Color Brightness": 1.0,
+                                        "Pupil Scale": 0.9549999833106995,
+                                        "_IoR": 1.399999976158142,
+                                        "Iris Cloudy Color": [
+                                            0.0,
+                                            2.549999952316284,
+                                            2.549999952316284
+                                        ],
+                                        "Iris Inner Color": [
+                                            255.0,
+                                            223.0,
+                                            125.0
+                                        ],
+                                        "Iris Inner Scale": 0.0,
+                                        "Iris UV Radius": 0.1599999964237213,
+                                        "Iris Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Limbus UV Width Color": 0.04500000178813934,
+                                        "Limbus Dark Scale": 6.5,
+                                        "ScleraBrightness": 0.6499999761581421,
+                                        "Sclera Roughness": 0.20000000298023225,
+                                        "Sclera Flatten Normal": 0.8999999761581421,
+                                        "Sclera Normal UV Scale": 0.5,
+                                        "Sclera UV Radius": 0.9300000071525574
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        255.0,
+                                        255.0
+                                    ],
+                                    "Radius": 5.0,
+                                    "Distribution": 0.9300000071525574,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 1.0,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            },
+                            "Std_Eye_L": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    50.000003814697269,
+                                    50.000003814697269,
+                                    50.000003814697269
+                                ],
+                                "Specular Color": [
+                                    229.00001525878907,
+                                    229.00001525878907,
+                                    229.00001525878907
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_L_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_L_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Eye_L/Std_Eye_L_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "Std_Cornea_L": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    50.000003814697269,
+                                    50.000003814697269,
+                                    50.000003814697269
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 0.800000011920929,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Cornea_L_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 50.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEye",
+                                    "Image": {
+                                        "Iris Normal": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                        },
+                                        "Sclera Normal": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                        },
+                                        "EyeBlendMap2": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                        },
+                                        "Inner Iris Mask": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                        },
+                                        "Sclera": {
+                                            "Texture Path": "./textures/Mali_TPose/cc_base_eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_Sclera.jpg"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "BlendMap2 Strength": 0.0,
+                                        "Shadow Radius": 0.4000000059604645,
+                                        "Shadow Hardness": 0.5,
+                                        "Specular Scale": 0.800000011920929,
+                                        "Is Left Eye": 1.0,
+                                        "Eye Corner Darkness Color": [
+                                            255.0,
+                                            187.9860076904297,
+                                            178.9998016357422
+                                        ],
+                                        "Iris Depth Scale": 0.8999999761581421,
+                                        "_Iris Roughness": 0.0,
+                                        "Iris Color Brightness": 1.0,
+                                        "Pupil Scale": 0.9549999833106995,
+                                        "_IoR": 1.399999976158142,
+                                        "Iris Cloudy Color": [
+                                            0.0,
+                                            2.549999952316284,
+                                            2.549999952316284
+                                        ],
+                                        "Iris Inner Color": [
+                                            255.0,
+                                            223.0,
+                                            125.0
+                                        ],
+                                        "Iris Inner Scale": 0.0,
+                                        "Iris UV Radius": 0.1599999964237213,
+                                        "Iris Color": [
+                                            255.0,
+                                            255.0,
+                                            255.0
+                                        ],
+                                        "Limbus UV Width Color": 0.04500000178813934,
+                                        "Limbus Dark Scale": 6.5,
+                                        "ScleraBrightness": 0.6499999761581421,
+                                        "Sclera Roughness": 0.20000000298023225,
+                                        "Sclera Flatten Normal": 0.8999999761581421,
+                                        "Sclera Normal UV Scale": 0.5,
+                                        "Sclera UV Radius": 0.9300000071525574
+                                    }
+                                },
+                                "Subsurface Scatter": {
+                                    "Falloff": [
+                                        255.0,
+                                        255.0,
+                                        255.0
+                                    ],
+                                    "Radius": 5.0,
+                                    "Distribution": 0.9300000071525574,
+                                    "IOR": 1.5499999523162842,
+                                    "DecayScale": 1.0,
+                                    "Lerp": 0.8500000238418579
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_TearLine": {
+                        "Materials": {
+                            "Std_Tearline_R": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Tearline_R_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Tearline_R_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_tearline/CC_Base_TearLine/Std_Tearline_R/Std_Tearline_R_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeTearline",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Depth Offset": 0.10000000149011612,
+                                        "Detail Amount": 0.028999999165534974,
+                                        "Detail Scale U": 2.299999952316284,
+                                        "Detail Scale V": 0.11999999731779099,
+                                        "Edge Fadeout": 1.0,
+                                        "_Roughness": 0.10000000149011612,
+                                        "OpacityForBlink": 0.9249999523162842
+                                    }
+                                }
+                            },
+                            "Std_Tearline_L": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Tearline_L_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Tearline_R_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_tearline/CC_Base_TearLine/Std_Tearline_L/Std_Tearline_L_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeTearline",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Depth Offset": 0.10000000149011612,
+                                        "Detail Amount": 0.028999999165534974,
+                                        "Detail Scale U": 2.299999952316284,
+                                        "Detail Scale V": 0.11999999731779099,
+                                        "Edge Fadeout": 1.0,
+                                        "_Roughness": 0.10000000149011612,
+                                        "OpacityForBlink": 0.9249999523162842
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "CC_Base_EyeOcclusion": {
+                        "Materials": {
+                            "Std_Eye_Occlusion_R": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_Occlusion_R_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_Occlusion_R_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_eyeocclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_R/Std_Eye_Occlusion_R_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeOcclusion",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Display Blur Range": 0.0,
+                                        "Blur Strength": 0.5299999713897705,
+                                        "_Expand": 1.75,
+                                        "Top Blur Range": 1.2999999523162842,
+                                        "Top Blur Contrast": 2.0,
+                                        "Bottom Blur Range": 0.800000011920929,
+                                        "Bottom Blur Contrast": 1.399999976158142,
+                                        "Outer Corner Blur Range": 1.600000023841858,
+                                        "Outer Corner Blur Contrast": 3.200000047683716,
+                                        "Tear Duct Position": 0.949999988079071,
+                                        "Tear Duct Contrast": 0.44999998807907107,
+                                        "padding": 0.0,
+                                        "Shadow Color": [
+                                            84.1500015258789,
+                                            23.969999313354493,
+                                            14.024999618530274
+                                        ],
+                                        "Shadow Strength": 0.20000000298023225,
+                                        "Shadow Top": 0.27000001072883608,
+                                        "Shadow Top Range": 1.0,
+                                        "Shadow Top Arc": 1.0,
+                                        "Shadow Bottom": 0.05000000074505806,
+                                        "Shadow Bottom Range": 0.30000001192092898,
+                                        "Shadow Bottom Arc": 2.0,
+                                        "Shadow Inner Corner": 0.25,
+                                        "Shadow Inner Corner Range": 0.5,
+                                        "Tear Duct Shadow Offset": 0.0,
+                                        "Shadow Outer Corner": 0.20000000298023225,
+                                        "Shadow Outer Corner Range": 0.5,
+                                        "OpacityForBlink": 1.0,
+                                        "Shadow2 Color": [
+                                            60.94499969482422,
+                                            20.90999984741211,
+                                            10.96500015258789
+                                        ],
+                                        "Shadow2 Strength": 0.44999998807907107,
+                                        "Shadow2 Top": 0.15000000596046449,
+                                        "Shadow2 Top Range": 1.0,
+                                        "Depth Offset": 2.0,
+                                        "Fade Distance": 0.20000000298023225,
+                                        "Top Offset": 0.0,
+                                        "Bottom Offset": 0.0,
+                                        "Inner Corner Offset": 0.0,
+                                        "Outer Corner Offset": 0.07000000029802323
+                                    }
+                                }
+                            },
+                            "Std_Eye_Occlusion_L": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_Occlusion_L_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Eye_Occlusion_R_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_base_eyeocclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_L/Std_Eye_Occlusion_L_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLEyeOcclusion",
+                                    "Image": {},
+                                    "Variable": {
+                                        "Display Blur Range": 0.0,
+                                        "Blur Strength": 0.5299999713897705,
+                                        "_Expand": 1.75,
+                                        "Top Blur Range": 1.2999999523162842,
+                                        "Top Blur Contrast": 2.0,
+                                        "Bottom Blur Range": 0.800000011920929,
+                                        "Bottom Blur Contrast": 1.399999976158142,
+                                        "Outer Corner Blur Range": 1.600000023841858,
+                                        "Outer Corner Blur Contrast": 3.200000047683716,
+                                        "Tear Duct Position": 0.949999988079071,
+                                        "Tear Duct Contrast": 0.44999998807907107,
+                                        "padding": 0.0,
+                                        "Shadow Color": [
+                                            84.1500015258789,
+                                            23.969999313354493,
+                                            14.024999618530274
+                                        ],
+                                        "Shadow Strength": 0.20000000298023225,
+                                        "Shadow Top": 0.27000001072883608,
+                                        "Shadow Top Range": 1.0,
+                                        "Shadow Top Arc": 1.0,
+                                        "Shadow Bottom": 0.05000000074505806,
+                                        "Shadow Bottom Range": 0.30000001192092898,
+                                        "Shadow Bottom Arc": 2.0,
+                                        "Shadow Inner Corner": 0.25,
+                                        "Shadow Inner Corner Range": 0.5,
+                                        "Tear Duct Shadow Offset": 0.0,
+                                        "Shadow Outer Corner": 0.20000000298023225,
+                                        "Shadow Outer Corner Range": 0.5,
+                                        "OpacityForBlink": 1.0,
+                                        "Shadow2 Color": [
+                                            60.94499969482422,
+                                            20.90999984741211,
+                                            10.96500015258789
+                                        ],
+                                        "Shadow2 Strength": 0.44999998807907107,
+                                        "Shadow2 Top": 0.15000000596046449,
+                                        "Shadow2 Top Range": 1.0,
+                                        "Depth Offset": 2.0,
+                                        "Fade Distance": 0.20000000298023225,
+                                        "Top Offset": 0.0,
+                                        "Bottom Offset": 0.0,
+                                        "Inner Corner Offset": 0.0,
+                                        "Outer Corner Offset": 0.07000000029802323
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "CC_Toon_Teeth_01": {
+                        "Materials": {
+                            "Std_Upper_Teeth": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    150.0,
+                                    150.0,
+                                    150.0
+                                ],
+                                "Specular Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Upper_Teeth_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_toon_teeth_01/CC_Toon_Teeth_01/Std_Upper_Teeth/Std_Upper_Teeth_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "Std_Lower_Teeth": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    150.0,
+                                    150.0,
+                                    150.0
+                                ],
+                                "Specular Color": [
+                                    204.0,
+                                    204.0,
+                                    204.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Std_Lower_Teeth_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/cc_toon_teeth_01/CC_Toon_Teeth_01/Std_Lower_Teeth/Std_Lower_Teeth_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Canvas_shoes": {
+                        "Materials": {
+                            "Canvas_shoes": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    127.5,
+                                    127.5,
+                                    127.5
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Canvas_shoes_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Canvas_shoes_Normal.jpg",
+                                        "Strength": 79.99999237060547,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/canvas_shoes/Canvas_shoes/Canvas_shoes/Canvas_shoes_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Rocker_Jeans": {
+                        "Materials": {
+                            "Rocker_Jeans": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    8.0,
+                                    8.0,
+                                    8.0
+                                ],
+                                "Ambient Color": [
+                                    150.0,
+                                    150.0,
+                                    150.0
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Rocker_Jeans_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Rocker_Jeans_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Rocker_Jeans_Normal.jpg",
+                                        "Strength": 50.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/rocker_jeans/Rocker_Jeans/Rocker_Jeans/Rocker_Jeans_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Turtleneck_sweater": {
+                        "Materials": {
+                            "Turtleneck_sweater": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    149.94000244140626,
+                                    149.94000244140626,
+                                    149.94000244140626
+                                ],
+                                "Specular Color": [
+                                    229.5,
+                                    229.5,
+                                    229.5
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Turtleneck_sweater_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Mali_TPose.fbm/Turtleneck_sweater_Normal.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/turtleneck_sweater/Turtleneck_sweater/Turtleneck_sweater/Turtleneck_sweater_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Eyebrows": {
+                        "Materials": {
+                            "Eyebrows_Transparency": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Node Type": "Brow",
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    10.0,
+                                    6.000000476837158,
+                                    2.0
+                                ],
+                                "Ambient Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/eyebrows/Eyebrows/Eyebrows_Transparency/Eyebrows_Transparency_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "Side_part_wavy": {
+                        "Materials": {
+                            "Scalp_Transparency": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Node Type": "Hair",
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Mali_TPose.fbm/Scalp_Transparency_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Scalp_Transparency_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/side_part_wavy/Side_part_wavy/Scalp_Transparency/Scalp_Transparency_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "Hair_Transparency": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Node Type": "Hair",
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    101.00000762939453,
+                                    101.00000762939453,
+                                    101.00000762939453
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Mali_TPose.fbm/Hair_Transparency_Opacity.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Blend": {
+                                        "Texture Path": "./textures/Mali_TPose/side_part_wavy/Side_part_wavy/Hair_Transparency/Hair_Transparency_blend_multiply.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ],
+                                        "Blend Mode": "Multiply"
+                                    },
+                                    "AO": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "ORM": {
+                                        "Texture Path": "./textures/Mali_TPose/side_part_wavy/Side_part_wavy/Hair_Transparency/Hair_Transparency_ORM.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLHair",
+                                    "Image": {
+                                        "Hair Root Map": {
+                                            "Texture Path": "./textures/Mali_TPose/side_part_wavy/Side_part_wavy/Hair_Transparency/Hair_Transparency_Hair Root Map.png"
+                                        },
+                                        "Hair ID Map": {
+                                            "Texture Path": "./textures/Mali_TPose/side_part_wavy/Side_part_wavy/Hair_Transparency/Hair_Transparency_Hair ID Map.jpg"
+                                        },
+                                        "Hair Flow Map": {
+                                            "Texture Path": "./textures/Mali_TPose/side_part_wavy/Side_part_wavy/Hair_Transparency/Hair_Transparency_Hair Flow Map.jpg"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "TangentVectorColor": [
+                                            255.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "TangentMapFlipGreen": 1.0,
+                                        "AO Map Occlude All Lighting": 0.0,
+                                        "Diffuse Strength": 1.0,
+                                        "Hair Roughness Map Strength": 0.5239999890327454,
+                                        "Hair Specular Map Strength": 0.30000001192092898,
+                                        "Specular Strength": 0.800000011920929,
+                                        "Secondary Specular Strength": 1.0,
+                                        "Transmission Strength": 0.11299999803304672,
+                                        "No Back Face Triangles": 1.0,
+                                        "VertexGrayToColor": [
+                                            8.0,
+                                            4.0,
+                                            0.0
+                                        ],
+                                        "VertexColorStrength": 1.0,
+                                        "ActiveChangeHairColor": 1.0,
+                                        "BaseColorMapStrength": 0.0,
+                                        "padding c4z": 0.0,
+                                        "paddingHasMips": 0.0,
+                                        "RootColor": [
+                                            25.0,
+                                            20.0,
+                                            16.0
+                                        ],
+                                        "padding c5w": 0.0,
+                                        "TipColor": [
+                                            43.0,
+                                            23.0,
+                                            12.0
+                                        ],
+                                        "RootTipBlendMode": 1.0,
+                                        "UseRootTipColor": 1.0,
+                                        "RootColorStrength": 1.0,
+                                        "TipColorStrength": 1.0,
+                                        "InvertRootTip": 0.0,
+                                        "_1st Dye Color": [
+                                            109.0,
+                                            75.0,
+                                            41.0
+                                        ],
+                                        "_1st Dye Strength": 0.3050000071525574,
+                                        "_1st Dye Distribution from Grayscale": [
+                                            146.26800537109376,
+                                            181.99349975585938,
+                                            232.73849487304688
+                                        ],
+                                        "_1st BlendMode": 0.0,
+                                        "Mask 1st Dye by RootMap": 0.0,
+                                        "Invert 1st Dye RootMap Mask": 0.0,
+                                        "_1st Dye add Specular": 0.6729999780654907,
+                                        "padding c10w": 0.0,
+                                        "_2nd Dye Color": [
+                                            70.0,
+                                            60.0,
+                                            52.0
+                                        ],
+                                        "_2nd Dye Strength": 0.38600000739097597,
+                                        "_2nd Dye Distribution from Grayscale": [
+                                            24.173999786376954,
+                                            92.41200256347656,
+                                            141.8054962158203
+                                        ],
+                                        "_2nd BlendMode": 1.0,
+                                        "Mask 2nd Dye by RootMap": 0.4880000054836273,
+                                        "Invert 2nd Dye RootMap Mask": 0.0,
+                                        "_2nd Dye add Specular": 0.0,
+                                        "padding c13w": 0.0,
+                                        "BlackColor Reflection Offset X": -0.028999999165534974,
+                                        "BlackColor Reflection Offset Y": -0.10199999809265137,
+                                        "BlackColor Reflection Offset Z": -0.5270000100135803,
+                                        "padding c14w": 0.0,
+                                        "WhiteColor Reflection Offset X": 0.19200000166893006,
+                                        "WhiteColor Reflection Offset Y": 0.029999999329447748,
+                                        "WhiteColor Reflection Offset Z": 0.0,
+                                        "padding c15w": 0.0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

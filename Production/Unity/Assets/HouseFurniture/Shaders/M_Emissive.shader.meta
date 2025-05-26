@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 9b009fbdb2530004db0da6b41e22738e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - Material_Texture2D_0: {fileID: 2800000, guid: abc00000000005546889098118452484,
+      type: 3}
+  - Material_Texture2D_1: {fileID: 2800000, guid: abc00000000015719810112367684682,
+      type: 3}
+  - Material_TextureD_3: {fileID: 2800000, guid: abc00000000012000771315061351522,
+      type: 3}
+  - _texcoord: {instanceID: 0}
+  - unity_Lightmaps: {instanceID: 0}
+  - unity_LightmapsInd: {instanceID: 0}
+  - unity_ShadowMasks: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210273
+  packageName: HouseFurniture
+  packageVersion: 1.3
+  assetPath: Assets/HouseFurniture/Shaders/M_Emissive.shader
+  uploadId: 667709

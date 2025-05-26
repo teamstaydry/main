@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 291afc1c8f7a6bb47ae2060f13ca4d6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123153
+  packageName: SF MachineGun AK5
+  packageVersion: 1.0
+  assetPath: Assets/SF_AK5/Meshes/Materials/AK5.mat
+  uploadId: 256606

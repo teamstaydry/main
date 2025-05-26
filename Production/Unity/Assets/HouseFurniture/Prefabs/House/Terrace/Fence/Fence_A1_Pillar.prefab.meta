@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd7e1694225b464489d2679d10ce9687
+timeCreated: 1512478193
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210273
+  packageName: HouseFurniture
+  packageVersion: 1.3
+  assetPath: Assets/HouseFurniture/Prefabs/House/Terrace/Fence/Fence_A1_Pillar.prefab
+  uploadId: 667709

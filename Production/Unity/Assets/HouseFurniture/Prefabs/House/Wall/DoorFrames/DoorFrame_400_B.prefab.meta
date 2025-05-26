@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aeaf0f05411abfb42b2c5bd7e3426a74
+timeCreated: 1511453593
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 210273
+  packageName: HouseFurniture
+  packageVersion: 1.3
+  assetPath: Assets/HouseFurniture/Prefabs/House/Wall/DoorFrames/DoorFrame_400_B.prefab
+  uploadId: 667709

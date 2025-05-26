@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1409e0f86fce2540888846a7e39c512
+timeCreated: 1551008591
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141186
+  packageName: Customizable SciFi Gun
+  packageVersion: 1.0
+  assetPath: Assets/Customizable SciFi Gun/03-Info/info.txt
+  uploadId: 297741

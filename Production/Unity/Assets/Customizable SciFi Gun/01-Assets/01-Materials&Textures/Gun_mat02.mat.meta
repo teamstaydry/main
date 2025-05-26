@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d78f330c5c6c4de41bfd4bb649824472
+timeCreated: 1551012745
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141186
+  packageName: Customizable SciFi Gun
+  packageVersion: 1.0
+  assetPath: Assets/Customizable SciFi Gun/01-Assets/01-Materials&Textures/Gun_mat02.mat
+  uploadId: 297741

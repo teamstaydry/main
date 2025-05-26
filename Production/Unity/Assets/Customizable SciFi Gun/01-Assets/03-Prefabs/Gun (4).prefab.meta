@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 00026a9d15c72d54f8a42340d4270769
+timeCreated: 1551634096
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141186
+  packageName: Customizable SciFi Gun
+  packageVersion: 1.0
+  assetPath: Assets/Customizable SciFi Gun/01-Assets/03-Prefabs/Gun (4).prefab
+  uploadId: 297741

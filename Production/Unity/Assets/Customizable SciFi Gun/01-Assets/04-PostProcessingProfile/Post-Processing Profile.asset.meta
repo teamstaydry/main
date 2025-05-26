@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8417bc6ca3942094890da1734df791e2
+timeCreated: 1543790705
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141186
+  packageName: Customizable SciFi Gun
+  packageVersion: 1.0
+  assetPath: Assets/Customizable SciFi Gun/01-Assets/04-PostProcessingProfile/Post-Processing
+    Profile.asset
+  uploadId: 297741

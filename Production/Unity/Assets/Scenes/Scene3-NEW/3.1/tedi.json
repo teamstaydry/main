@@ -1,13 +1,13 @@
 {
-    "tedi": {
+    "Tedi": {
         "Version": "1.10.1822.1",
         "Scene": {
             "Name": true,
             "SupportShaderSelect": true
         },
-        "Export Directory": "D:/Stay Dry/unity_motions/scene 3/3.1/3.1",
+        "Export Directory": "D:/Stay Dry/unity_motions/scene 3/3.2/3.2",
         "Object": {
-            "tedi": {
+            "Tedi": {
                 "Generation": "RL_CC3_Plus",
                 "Physics": {
                     "Collision Shapes": {
@@ -22,8 +22,8 @@
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
                                     -5.45707893371582,
-                                    3.9737441539764406,
-                                    112.7964859008789
+                                    3.9735753536224367,
+                                    112.83443450927735
                                 ],
                                 "WorldRotationQ": [
                                     0.8121439218521118,
@@ -48,8 +48,8 @@
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
                                     5.457592487335205,
-                                    3.9737441539764406,
-                                    112.79652404785156
+                                    3.9735753536224367,
+                                    112.83447265625
                                 ],
                                 "WorldRotationQ": [
                                     0.8121435046195984,
@@ -76,23 +76,23 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    8.753033638000489,
-                                    2.351210117340088,
-                                    81.57415008544922
+                                    8.753035545349121,
+                                    2.351008892059326,
+                                    81.61211395263672
                                 ],
                                 "WorldRotationQ": [
-                                    -0.03040814772248268,
-                                    0.7393805384635925,
-                                    -0.6717431545257568,
-                                    -0.033955007791519168
+                                    -0.03040812537074089,
+                                    0.7393800020217896,
+                                    -0.6717436909675598,
+                                    -0.03395501524209976
                                 ],
                                 "WorldScale": [
-                                    1.000001072883606,
-                                    1.0000009536743165,
-                                    1.0000001192092896
+                                    1.0000004768371583,
+                                    1.0000003576278687,
+                                    0.9999999403953552
                                 ],
-                                "Radius": 7.471281051635742,
-                                "Capsule Length": 42.28237533569336
+                                "Radius": 7.471282482147217,
+                                "Capsule Length": 42.282371520996097
                             }
                         },
                         "CC_Base_L_Calf": {
@@ -104,23 +104,23 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    7.773163795471191,
-                                    5.0819478034973148,
-                                    34.14314270019531
+                                    7.773165225982666,
+                                    5.081808090209961,
+                                    34.181114196777347
                                 ],
                                 "WorldRotationQ": [
-                                    -0.006393418647348881,
-                                    0.713221549987793,
-                                    -0.7008768320083618,
-                                    -0.006763814017176628
+                                    -0.006393442861735821,
+                                    0.7132231593132019,
+                                    -0.7008752226829529,
+                                    -0.006763783749192953
                                 ],
                                 "WorldScale": [
-                                    0.9999998807907105,
-                                    0.9999999403953552,
-                                    0.9999998211860657
+                                    1.0,
+                                    1.000000238418579,
+                                    1.000000238418579
                                 ],
-                                "Radius": 6.164679527282715,
-                                "Capsule Length": 35.077972412109378
+                                "Radius": 6.164678573608398,
+                                "Capsule Length": 35.07794189453125
                             }
                         },
                         "CC_Base_L_Foot": {},
@@ -145,23 +145,23 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    -8.7548189163208,
-                                    2.3493540287017824,
-                                    81.57353210449219
+                                    -8.754817962646485,
+                                    2.349148750305176,
+                                    81.61146545410156
                                 ],
                                 "WorldRotationQ": [
-                                    0.030407095327973367,
-                                    0.7393893003463745,
-                                    -0.6717336773872376,
-                                    0.0339534617960453
+                                    0.03040708787739277,
+                                    0.7393887639045715,
+                                    -0.6717342734336853,
+                                    0.033953484147787097
                                 ],
                                 "WorldScale": [
-                                    1.000000238418579,
-                                    1.000000238418579,
-                                    1.0000001192092896
+                                    1.000001072883606,
+                                    1.0000008344650269,
+                                    1.000000238418579
                                 ],
-                                "Radius": 7.438782691955566,
-                                "Capsule Length": 42.342041015625
+                                "Radius": 7.43878173828125,
+                                "Capsule Length": 42.342044830322269
                             }
                         },
                         "CC_Base_R_Calf": {
@@ -173,23 +173,23 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    -7.769600868225098,
-                                    5.173055171966553,
-                                    34.14419174194336
+                                    -7.7696003913879398,
+                                    5.1729207038879398,
+                                    34.18215560913086
                                 ],
                                 "WorldRotationQ": [
-                                    0.0063918461091816429,
-                                    0.713167130947113,
-                                    -0.7009322643280029,
-                                    0.006762637756764889
+                                    0.00639187591150403,
+                                    0.7131687998771668,
+                                    -0.7009305357933044,
+                                    0.006762614473700523
                                 ],
                                 "WorldScale": [
-                                    0.9999998807907105,
-                                    1.0000001192092896,
-                                    0.9999998211860657
+                                    1.000000238418579,
+                                    1.0,
+                                    0.9999999403953552
                                 ],
                                 "Radius": 6.154088020324707,
-                                "Capsule Length": 35.09910583496094
+                                "Capsule Length": 35.099143981933597
                             }
                         },
                         "CC_Base_R_KneeShareBone": {},
@@ -215,9 +215,9 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    0.00020999115076847374,
-                                    3.954292058944702,
-                                    136.16453552246095
+                                    0.00020991466590203345,
+                                    3.9541194438934328,
+                                    136.20249938964845
                                 ],
                                 "WorldRotationQ": [
                                     0.4299415349960327,
@@ -244,14 +244,14 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    0.00022889874526299536,
-                                    6.073299884796143,
-                                    164.7147979736328
+                                    0.00022882205666974187,
+                                    6.073131084442139,
+                                    164.7527313232422
                                 ],
                                 "WorldRotationQ": [
                                     0.7821560502052307,
-                                    -6.909726124604276e-8,
-                                    6.833622023805219e-8,
+                                    -6.909554883804958e-8,
+                                    6.833453625176844e-8,
                                     0.6230825781822205
                                 ],
                                 "WorldScale": [
@@ -270,9 +270,9 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    0.0026507212314754726,
-                                    5.610116481781006,
-                                    151.03082275390626
+                                    0.0026506443973630668,
+                                    5.609947681427002,
+                                    151.06875610351563
                                 ],
                                 "WorldRotationQ": [
                                     0.5530678033828735,
@@ -297,8 +297,8 @@
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
                                     -6.998772621154785,
-                                    1.1374486684799195,
-                                    148.44912719726563
+                                    1.1372798681259156,
+                                    148.487060546875
                                 ],
                                 "WorldRotationQ": [
                                     0.31580665707588198,
@@ -323,8 +323,8 @@
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
                                     7.001226425170898,
-                                    1.1374486684799195,
-                                    148.44912719726563
+                                    1.1372798681259156,
+                                    148.487060546875
                                 ],
                                 "WorldRotationQ": [
                                     0.31580665707588198,
@@ -351,9 +351,9 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    0.00029828690458089113,
-                                    3.037635326385498,
-                                    177.25592041015626
+                                    0.00029844866367056966,
+                                    3.0374679565429689,
+                                    177.2938690185547
                                 ],
                                 "WorldRotationQ": [
                                     0.7075302600860596,
@@ -362,12 +362,12 @@
                                     0.7066830992698669
                                 ],
                                 "WorldScale": [
-                                    1.0,
-                                    0.9999998807907105,
-                                    0.9999998807907105
+                                    1.0000001192092896,
+                                    1.000000238418579,
+                                    1.000000238418579
                                 ],
-                                "Radius": 7.414433002471924,
-                                "Capsule Length": 6.96816349029541
+                                "Radius": 7.414431571960449,
+                                "Capsule Length": 6.968160629272461
                             }
                         },
                         "CC_Base_FacialBone": {},
@@ -390,23 +390,23 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    31.662778854370118,
-                                    10.383428573608399,
-                                    155.8637237548828
+                                    31.662796020507814,
+                                    10.383260726928711,
+                                    155.90167236328126
                                 ],
                                 "WorldRotationQ": [
-                                    0.5221049785614014,
-                                    0.5214406847953796,
-                                    -0.4753131866455078,
-                                    0.4791485667228699
+                                    0.5221050977706909,
+                                    0.5214406251907349,
+                                    -0.47531306743621828,
+                                    0.47914862632751467
                                 ],
                                 "WorldScale": [
                                     1.0000001192092896,
-                                    1.000000238418579,
-                                    1.0
+                                    1.0000001192092896,
+                                    1.0000001192092896
                                 ],
-                                "Radius": 5.045425891876221,
-                                "Capsule Length": 22.943695068359376
+                                "Radius": 5.04542875289917,
+                                "Capsule Length": 22.943710327148439
                             }
                         },
                         "CC_Base_L_Forearm": {
@@ -418,23 +418,23 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    62.383487701416019,
-                                    9.797901153564454,
-                                    157.12071228027345
+                                    62.38350296020508,
+                                    9.797739028930664,
+                                    157.15867614746095
                                 ],
                                 "WorldRotationQ": [
-                                    0.520340085029602,
+                                    0.5203401446342468,
                                     0.5232351422309876,
-                                    -0.4777377247810364,
+                                    -0.4777376353740692,
                                     0.4766947627067566
                                 ],
                                 "WorldScale": [
-                                    0.9999998807907105,
-                                    1.0000001192092896,
-                                    0.9999998807907105
+                                    0.9999998211860657,
+                                    0.9999999403953552,
+                                    0.9999999403953552
                                 ],
                                 "Radius": 4.3683390617370609,
-                                "Capsule Length": 21.781402587890626
+                                "Capsule Length": 21.781417846679689
                             }
                         },
                         "CC_Base_L_ForearmTwist01": {},
@@ -449,25 +449,25 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    80.85350799560547,
-                                    8.807908058166504,
-                                    156.92518615722657
+                                    80.853515625,
+                                    8.80773639678955,
+                                    156.9631805419922
                                 ],
                                 "WorldRotationQ": [
                                     0.5173911452293396,
                                     0.5260964632034302,
-                                    -0.46384504437446597,
-                                    0.4902823269367218
+                                    -0.46384498476982119,
+                                    0.4902823865413666
                                 ],
                                 "WorldScale": [
-                                    0.9999998211860657,
-                                    0.9999998211860657,
-                                    0.9999997615814209
+                                    1.0000001192092896,
+                                    1.0000001192092896,
+                                    1.0
                                 ],
                                 "Extent": [
-                                    4.5229105949401859,
-                                    9.572021484375,
-                                    8.070648193359375
+                                    4.522911548614502,
+                                    9.57202434539795,
+                                    8.070646286010743
                                 ]
                             }
                         },
@@ -502,20 +502,20 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    -31.669240951538087,
-                                    10.38330078125,
-                                    155.86412048339845
+                                    -31.669246673583986,
+                                    10.383129119873047,
+                                    155.90208435058595
                                 ],
                                 "WorldRotationQ": [
-                                    0.5221051573753357,
-                                    -0.5214407444000244,
-                                    0.475312739610672,
-                                    0.479148805141449
+                                    0.5221052765846252,
+                                    -0.5214406251907349,
+                                    0.4753126800060272,
+                                    0.47914886474609377
                                 ],
                                 "WorldScale": [
-                                    1.0000001192092896,
                                     1.0,
-                                    1.0
+                                    1.000000238418579,
+                                    1.0000003576278687
                                 ],
                                 "Radius": 5.045186519622803,
                                 "Capsule Length": 22.957782745361329
@@ -530,23 +530,23 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    -62.3767204284668,
-                                    9.797179222106934,
-                                    157.12132263183595
+                                    -62.37672805786133,
+                                    9.797005653381348,
+                                    157.15928649902345
                                 ],
                                 "WorldRotationQ": [
                                     -0.5203400254249573,
                                     0.5232354402542114,
                                     -0.4777377247810364,
-                                    -0.4766945242881775
+                                    -0.4766944348812103
                                 ],
                                 "WorldScale": [
-                                    1.0000003576278687,
-                                    1.0000001192092896,
-                                    1.000000238418579
+                                    1.000000238418579,
+                                    0.9999998211860657,
+                                    0.9999998807907105
                                 ],
-                                "Radius": 4.368196964263916,
-                                "Capsule Length": 21.766498565673829
+                                "Radius": 4.368198394775391,
+                                "Capsule Length": 21.76650619506836
                             }
                         },
                         "CC_Base_R_ElbowShareBone": {},
@@ -561,25 +561,25 @@
                                 "Friction": 0.05000000074505806,
                                 "Elasticity": 0.5,
                                 "WorldTranslate": [
-                                    -80.85896301269531,
-                                    9.075553894042969,
-                                    156.9273681640625
+                                    -80.85897064208985,
+                                    9.075383186340332,
+                                    156.96531677246095
                                 ],
                                 "WorldRotationQ": [
-                                    -0.5173909664154053,
-                                    0.5260968208312988,
-                                    -0.4638451039791107,
-                                    -0.4902820289134979
+                                    -0.5173911452293396,
+                                    0.5260967016220093,
+                                    -0.46384501457214358,
+                                    -0.4902820587158203
                                 ],
                                 "WorldScale": [
-                                    0.9999998807907105,
-                                    1.0,
-                                    1.0000001192092896
+                                    0.9999997019767761,
+                                    0.9999999403953552,
+                                    0.9999998807907105
                                 ],
                                 "Extent": [
-                                    5.314798831939697,
-                                    9.573326110839844,
-                                    8.195562362670899
+                                    5.31480073928833,
+                                    9.573328018188477,
+                                    8.195564270019532
                                 ]
                             }
                         },
@@ -713,7 +713,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Tongue_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Tongue_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -737,7 +737,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Tongue_Normal.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Tongue_Normal.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -749,7 +749,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -761,10 +761,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -772,10 +772,10 @@
                                     "Shader Name": "RLTongue",
                                     "Image": {
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroN.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
                                         },
                                         "Gradient AO": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_GradAO.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_GradAO.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -833,7 +833,7 @@
                                 "Self Illumination": 0.0,
                                 "Textures": {
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Head_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Head_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -857,7 +857,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Head_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Head_Normal.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -869,7 +869,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -881,10 +881,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -892,40 +892,40 @@
                                     "Shader Name": "RLHead",
                                     "Image": {
                                         "Specular Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SpecMask.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SpecMask.jpg"
                                         },
                                         "Transmission Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_TransMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_TransMap.png"
                                         },
                                         "Mouth Cavity Mask and AO": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MNAOMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MNAOMask.tga"
                                         },
                                         "SSS Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SSSMap.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_SSSMap.jpg"
                                         },
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroN.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
                                         },
                                         "Cheek Fore UpperLip Chin Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_CFULCMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_CFULCMask.tga"
                                         },
                                         "Ear Neck Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ENMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_ENMask.tga"
                                         },
                                         "Nose Mouth UpperInnerLid Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NMUILMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NMUILMask.tga"
                                         },
                                         "BaseColor Blend2": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_BCBMap.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_BCBMap.jpg"
                                         },
                                         "NormalMap Blend": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NBMap.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_NBMap.jpg"
                                         },
                                         "MicroNormalMask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MicroNMask.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_MicroNMask.jpg"
                                         },
                                         "Blend Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Blend Mask.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Blend Mask.png"
                                         }
                                     },
                                     "Variable": {
@@ -1041,7 +1041,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Body_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Body_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1065,7 +1065,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Body_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Body_Normal.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1077,7 +1077,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1089,10 +1089,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -1100,19 +1100,19 @@
                                     "Shader Name": "RLSkin",
                                     "Image": {
                                         "Transmission Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_TransMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_TransMap.png"
                                         },
                                         "RGBA Area Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_RGBAMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_RGBAMask.tga"
                                         },
                                         "SSS Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_SSSMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_SSSMap.png"
                                         },
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroN.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
                                         },
                                         "MicroNormalMask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_MicroNMask.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Body/Std_Skin_Body_MicroNMask.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -1198,7 +1198,7 @@
                                 "Self Illumination": 0.0,
                                 "Textures": {
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Arm_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Arm_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1222,7 +1222,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Arm_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Arm_Normal.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1234,7 +1234,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1246,10 +1246,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -1257,19 +1257,19 @@
                                     "Shader Name": "RLSkin",
                                     "Image": {
                                         "Transmission Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_TransMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_TransMap.png"
                                         },
                                         "RGBA Area Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_RGBAMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_RGBAMask.tga"
                                         },
                                         "SSS Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_SSSMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_SSSMap.png"
                                         },
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroN.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
                                         },
                                         "MicroNormalMask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_MicroNMask.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Arm/Std_Skin_Arm_MicroNMask.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -1355,7 +1355,7 @@
                                 "Self Illumination": 0.0,
                                 "Textures": {
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Leg_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Leg_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1379,7 +1379,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Skin_Leg_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Skin_Leg_Normal.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1391,7 +1391,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1403,10 +1403,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -1414,19 +1414,19 @@
                                     "Shader Name": "RLSkin",
                                     "Image": {
                                         "Transmission Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_TransMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_TransMap.png"
                                         },
                                         "RGBA Area Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_RGBAMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_RGBAMask.tga"
                                         },
                                         "SSS Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_SSSMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_SSSMap.png"
                                         },
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroN.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
                                         },
                                         "MicroNormalMask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroNMask.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroNMask.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -1512,7 +1512,7 @@
                                 "Self Illumination": 0.0,
                                 "Textures": {
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Nails_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Nails_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1536,7 +1536,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Nails_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Nails_Normal.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1548,7 +1548,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Nails/Std_Nails_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Nails/Std_Nails_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1560,10 +1560,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Nails/Std_Nails_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Nails/Std_Nails_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Nails/Std_Nails_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Nails/Std_Nails_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -1571,19 +1571,19 @@
                                     "Shader Name": "RLSkin",
                                     "Image": {
                                         "Transmission Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Nails/Std_Nails_TransMap.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Nails/Std_Nails_TransMap.png"
                                         },
                                         "RGBA Area Mask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Nails/Std_Nails_RGBAMask.tga"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Nails/Std_Nails_RGBAMask.tga"
                                         },
                                         "SSS Map": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Nails/Std_Nails_SSSMap.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Nails/Std_Nails_SSSMap.jpg"
                                         },
                                         "MicroNormal": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Skin_Leg/Std_Skin_Leg_MicroN.png"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Tongue/Std_Tongue/Std_Tongue_MicroN.png"
                                         },
                                         "MicroNormalMask": {
-                                            "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Nails/Std_Nails_MicroNMask.jpg"
+                                            "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Nails/Std_Nails_MicroNMask.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -1669,7 +1669,7 @@
                                 "Self Illumination": 0.0,
                                 "Textures": {
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Eyelash_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eyelash_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1693,7 +1693,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Std_Eyelash_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eyelash_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1705,7 +1705,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Eyelash_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eyelash_Normal.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1717,7 +1717,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Eyelash/Std_Eyelash_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Eyelash/Std_Eyelash_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1729,10 +1729,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Eyelash/Std_Eyelash_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Eyelash/Std_Eyelash_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/tedi/CC_Base_Body/Std_Eyelash/Std_Eyelash_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tedi/CC_Base_Body/Std_Eyelash/Std_Eyelash_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -1776,7 +1776,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_R_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_R_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1800,7 +1800,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_R_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_R_Normal.png",
                                         "Strength": 0.0,
                                         "Offset": [
                                             0.0,
@@ -1812,10 +1812,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_R/Std_Eye_R_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_R/Std_Eye_R_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_R/Std_Eye_R_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_R/Std_Eye_R_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -1855,7 +1855,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Cornea_R_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Cornea_R_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -1879,7 +1879,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Cornea_R_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Cornea_R_Normal.png",
                                         "Strength": 0.0,
                                         "Offset": [
                                             0.0,
@@ -1891,7 +1891,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_ao.png",
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_ao.png",
                                         "Strength": 50.0,
                                         "Offset": [
                                             0.0,
@@ -1903,10 +1903,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -1914,19 +1914,19 @@
                                     "Shader Name": "RLEye",
                                     "Image": {
                                         "Iris Normal": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisN.png"
                                         },
                                         "Sclera Normal": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_ScleraN.png"
                                         },
                                         "EyeBlendMap2": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_BCBMap.jpg"
                                         },
                                         "Inner Iris Mask": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisMask.png"
                                         },
                                         "Sclera": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_Sclera.jpg"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_Sclera.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -2019,7 +2019,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_L_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_L_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2043,7 +2043,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_L_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_L_Normal.png",
                                         "Strength": 0.0,
                                         "Offset": [
                                             0.0,
@@ -2055,10 +2055,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_L/Std_Eye_L_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_L/Std_Eye_L_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_L/Std_Eye_L_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Eye_L/Std_Eye_L_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -2098,7 +2098,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Cornea_L_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Std_Cornea_L_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2122,7 +2122,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Std_Cornea_L_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Cornea_L_Normal.png",
                                         "Strength": 0.0,
                                         "Offset": [
                                             0.0,
@@ -2134,7 +2134,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ao.png",
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ao.png",
                                         "Strength": 50.0,
                                         "Offset": [
                                             0.0,
@@ -2146,10 +2146,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -2157,19 +2157,19 @@
                                     "Shader Name": "RLEye",
                                     "Image": {
                                         "Iris Normal": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisN.png"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisN.png"
                                         },
                                         "Sclera Normal": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_ScleraN.png"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_ScleraN.png"
                                         },
                                         "EyeBlendMap2": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_BCBMap.jpg"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_BCBMap.jpg"
                                         },
                                         "Inner Iris Mask": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_IrisMask.png"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_R/Std_Cornea_R_IrisMask.png"
                                         },
                                         "Sclera": {
-                                            "Texture Path": "./textures/tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_Sclera.jpg"
+                                            "Texture Path": "./textures/Tedi/CC_Base_Eye/CC_Base_Eye/Std_Cornea_L/Std_Cornea_L_Sclera.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -2267,7 +2267,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Male_Brow_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Male_Brow_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2303,7 +2303,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Male_Brow_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Male_Brow_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2315,10 +2315,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -2326,10 +2326,10 @@
                                     "Shader Name": "RLHair",
                                     "Image": {
                                         "Hair Root Map": {
-                                            "Texture Path": "./textures/tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png_Hair Root Map.jpg"
+                                            "Texture Path": "./textures/Tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png_Hair Root Map.jpg"
                                         },
                                         "Hair ID Map": {
-                                            "Texture Path": "./textures/tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png_Hair ID Map.png"
+                                            "Texture Path": "./textures/Tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Transparency/Male_Brow_Transparency_MetallicAlpha.png_Hair ID Map.png"
                                         }
                                     },
                                     "Variable": {
@@ -2452,7 +2452,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Male_Brow_Base_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Male_Brow_Base_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2476,7 +2476,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Male_Brow_Base_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Male_Brow_Base_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2488,10 +2488,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Base_Transparency/Male_Brow_Base_Transparency_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Base_Transparency/Male_Brow_Base_Transparency_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Base_Transparency/Male_Brow_Base_Transparency_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Kevin_Brow/Kevin_Brow/Male_Brow_Base_Transparency/Male_Brow_Base_Transparency_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -2535,7 +2535,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Slim_Jeans_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Slim_Jeans_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2559,7 +2559,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Slim_Jeans_Normal.jpg",
+                                        "Texture Path": "./Tedi.fbm/Slim_Jeans_Normal.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2571,7 +2571,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/Slim_Jeans_2/Slim_Jeans_2/Slim_Jeans/Slim_Jeans_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Slim_Jeans_2/Slim_Jeans_2/Slim_Jeans/Slim_Jeans_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2583,10 +2583,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/Slim_Jeans_2/Slim_Jeans_2/Slim_Jeans/Slim_Jeans_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Slim_Jeans_2/Slim_Jeans_2/Slim_Jeans/Slim_Jeans_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/Slim_Jeans_2/Slim_Jeans_2/Slim_Jeans/Slim_Jeans_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Slim_Jeans_2/Slim_Jeans_2/Slim_Jeans/Slim_Jeans_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -2630,7 +2630,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Sport_sneakers_Diffuse.jpg",
+                                        "Texture Path": "./Tedi.fbm/Sport_sneakers_Diffuse.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2654,7 +2654,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/Sport_sneakers_Normal.jpg",
+                                        "Texture Path": "./Tedi.fbm/Sport_sneakers_Normal.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2666,7 +2666,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/Sport_sneakers/Sport_sneakers/Sport_sneakers/Sport_sneakers_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Sport_sneakers/Sport_sneakers/Sport_sneakers/Sport_sneakers_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2678,10 +2678,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/Sport_sneakers/Sport_sneakers/Sport_sneakers/Sport_sneakers_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Sport_sneakers/Sport_sneakers/Sport_sneakers/Sport_sneakers_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/Sport_sneakers/Sport_sneakers/Sport_sneakers/Sport_sneakers_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Sport_sneakers/Sport_sneakers/Sport_sneakers/Sport_sneakers_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -2713,7 +2713,7 @@
                                 "Self Illumination": 0.0,
                                 "Textures": {
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/UpperTeeth_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/UpperTeeth_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2737,10 +2737,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/UpperTeeth/UpperTeeth_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/UpperTeeth/UpperTeeth_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/UpperTeeth/UpperTeeth_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/UpperTeeth/UpperTeeth_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -2768,7 +2768,7 @@
                                 "Self Illumination": 0.0,
                                 "Textures": {
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/LowerTeeth_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/LowerTeeth_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2792,10 +2792,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/LowerTeeth/LowerTeeth_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/LowerTeeth/LowerTeeth_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/LowerTeeth/LowerTeeth_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Toon_Teeth_02/CC_Toon_Teeth_02/LowerTeeth/LowerTeeth_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -2839,7 +2839,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/GoZMesh_Default_Material_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/GoZMesh_Default_Material_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2863,7 +2863,7 @@
                                         ]
                                     },
                                     "Normal": {
-                                        "Texture Path": "./tedi.fbm/GoZMesh_Default_Material_Normal.png",
+                                        "Texture Path": "./Tedi.fbm/GoZMesh_Default_Material_Normal.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2875,10 +2875,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/Basic_T_shirts_8/Basic_T_shirts_8/GoZMesh_Default_Material/GoZMesh_Default_Material_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Basic_T_shirts_8/Basic_T_shirts_8/GoZMesh_Default_Material/GoZMesh_Default_Material_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/Basic_T_shirts_8/Basic_T_shirts_8/GoZMesh_Default_Material/GoZMesh_Default_Material_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Basic_T_shirts_8/Basic_T_shirts_8/GoZMesh_Default_Material/GoZMesh_Default_Material_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -2922,7 +2922,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_Occlusion_R_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_Occlusion_R_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2946,7 +2946,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_Occlusion_R_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_Occlusion_R_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -2958,10 +2958,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_R/Std_Eye_Occlusion_R_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_R/Std_Eye_Occlusion_R_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_R/Std_Eye_Occlusion_R_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_R/Std_Eye_Occlusion_R_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -3051,7 +3051,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_Occlusion_L_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_Occlusion_L_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3075,7 +3075,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Std_Eye_Occlusion_L_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Eye_Occlusion_L_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3087,10 +3087,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_L/Std_Eye_Occlusion_L_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_L/Std_Eye_Occlusion_L_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_L/Std_Eye_Occlusion_L_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_EyeOcclusion/CC_Base_EyeOcclusion/Std_Eye_Occlusion_L/Std_Eye_Occlusion_L_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -3184,7 +3184,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Tearline_R_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Tearline_R_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3208,7 +3208,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Std_Tearline_R_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Tearline_R_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3220,10 +3220,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_R/Std_Tearline_R_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_R/Std_Tearline_R_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_R/Std_Tearline_R_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_R/Std_Tearline_R_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -3276,7 +3276,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Std_Tearline_L_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Tearline_L_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3300,7 +3300,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Std_Tearline_L_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Std_Tearline_L_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3312,10 +3312,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_L/Std_Tearline_L_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_L/Std_Tearline_L_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_L/Std_Tearline_L_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/CC_Base_TearLine/CC_Base_TearLine/Std_Tearline_L/Std_Tearline_L_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -3373,7 +3373,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Hair_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Hair_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3409,7 +3409,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Hair_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Hair_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3421,7 +3421,7 @@
                                         ]
                                     },
                                     "AO": {
-                                        "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_ao.jpg",
+                                        "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_ao.jpg",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3433,10 +3433,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_HDRP.png"
+                                        "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_HDRP.png"
                                     }
                                 },
                                 "Resource Textures": {},
@@ -3444,13 +3444,13 @@
                                     "Shader Name": "RLHair",
                                     "Image": {
                                         "Hair Root Map": {
-                                            "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_Hair Root Map.jpg"
+                                            "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_Hair Root Map.jpg"
                                         },
                                         "Hair ID Map": {
-                                            "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_Hair ID Map.jpg"
+                                            "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_Hair ID Map.jpg"
                                         },
                                         "Hair Flow Map": {
-                                            "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_Hair Flow Map.jpg"
+                                            "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Hair_Transparency/Hair_Transparency_Hair Flow Map.jpg"
                                         }
                                     },
                                     "Variable": {
@@ -3573,7 +3573,7 @@
                                         ]
                                     },
                                     "Base Color": {
-                                        "Texture Path": "./tedi.fbm/Scalp_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Scalp_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3597,7 +3597,7 @@
                                         ]
                                     },
                                     "Opacity": {
-                                        "Texture Path": "./tedi.fbm/Scalp_Transparency_Diffuse.png",
+                                        "Texture Path": "./Tedi.fbm/Scalp_Transparency_Diffuse.png",
                                         "Strength": 100.0,
                                         "Offset": [
                                             0.0,
@@ -3609,10 +3609,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Scalp_Transparency/Scalp_Transparency_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Scalp_Transparency/Scalp_Transparency_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/Tight_Braid_Hair/Tight_Braid_Hair/Scalp_Transparency/Scalp_Transparency_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/Tight_Braid_Hair/Tight_Braid_Hair/Scalp_Transparency/Scalp_Transparency_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -3668,10 +3668,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/EARRING1/EARRING1/GoZMesh_Default_Material_0/GoZMesh_Default_Material_0_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/EARRING1/EARRING1/GoZMesh_Default_Material_0/GoZMesh_Default_Material_0_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/EARRING1/EARRING1/GoZMesh_Default_Material_0/GoZMesh_Default_Material_0_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/EARRING1/EARRING1/GoZMesh_Default_Material_0/GoZMesh_Default_Material_0_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}
@@ -3727,10 +3727,10 @@
                                         ]
                                     },
                                     "MetallicAlpha": {
-                                        "Texture Path": "./textures/tedi/EARRING2/EARRING2/GoZMesh_Default_Material_1/GoZMesh_Default_Material_1_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/EARRING2/EARRING2/GoZMesh_Default_Material_1/GoZMesh_Default_Material_1_MetallicAlpha.png"
                                     },
                                     "HDRP": {
-                                        "Texture Path": "./textures/tedi/EARRING2/EARRING2/GoZMesh_Default_Material_1/GoZMesh_Default_Material_1_MetallicAlpha.png"
+                                        "Texture Path": "./textures/Tedi/EARRING2/EARRING2/GoZMesh_Default_Material_1/GoZMesh_Default_Material_1_MetallicAlpha.png"
                                     }
                                 },
                                 "Resource Textures": {}

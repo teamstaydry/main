@@ -5,7 +5,7 @@
             "Name": true,
             "SupportShaderSelect": true
         },
-        "Export Directory": "D:/Stay Dry/unity_motions/scene 3/3.1/3.1",
+        "Export Directory": "D:/Stay Dry/unity_motions/scene 3/3.2/3.2",
         "Object": {
             "dumebi": {
                 "Generation": "RL_CC3_Plus",
@@ -955,6 +955,194 @@
                                     "IOR": 3.0,
                                     "DecayScale": 0.15000000596046449,
                                     "Lerp": 0.8500000238418579
+                                },
+                                "Wrinkle": {
+                                    "Textures": {
+                                        "Diffuse_1": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Diffuse1.png"
+                                        },
+                                        "Diffuse_2": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Diffuse2.png"
+                                        },
+                                        "Diffuse_3": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Diffuse3.png"
+                                        },
+                                        "Normal_1": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Normal1.png"
+                                        },
+                                        "Normal_2": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Normal2.png"
+                                        },
+                                        "Normal_3": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Normal3.png"
+                                        },
+                                        "Roughness_1": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Roughness1.png"
+                                        },
+                                        "Roughness_2": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Roughness2.png"
+                                        },
+                                        "Roughness_3": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Roughness3.png"
+                                        },
+                                        "Flow_1": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Flow1.jpg"
+                                        },
+                                        "Flow_2": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Flow2.jpg"
+                                        },
+                                        "Flow_3": {
+                                            "Texture Path": "./textures/dumebi/dumebi/CC_Base_Body/Std_Skin_Head/Std_Skin_Head_Wrinkle_Flow3.jpg"
+                                        }
+                                    },
+                                    "WrinkleRules": [
+                                        "head_wm1_normal_head_wm1_blink_L",
+                                        "head_wm1_normal_head_wm1_blink_R",
+                                        "head_wm1_normal_head_wm1_browRaiseInner_L",
+                                        "head_wm1_normal_head_wm1_browRaiseInner_R",
+                                        "head_wm1_normal_head_wm1_browRaiseOuter_L",
+                                        "head_wm1_normal_head_wm1_browRaiseOuter_R",
+                                        "head_wm1_normal_head_wm1_chinRaise_L",
+                                        "head_wm1_normal_head_wm1_chinRaise_R",
+                                        "head_wm1_normal_head_wm1_jawOpen",
+                                        "head_wm1_normal_head_wm1_purse_DL",
+                                        "head_wm1_normal_head_wm1_purse_DR",
+                                        "head_wm1_normal_head_wm1_purse_UL",
+                                        "head_wm1_normal_head_wm1_purse_UR",
+                                        "head_wm1_normal_head_wm1_squintInner_L",
+                                        "head_wm1_normal_head_wm1_squintInner_R",
+                                        "head_wm2_normal_head_wm2_browsDown_L",
+                                        "head_wm2_normal_head_wm2_browsDown_R",
+                                        "head_wm2_normal_head_wm2_browsLateral_L",
+                                        "head_wm2_normal_head_wm2_browsLateral_R",
+                                        "head_wm2_normal_head_wm2_mouthStretch_L",
+                                        "head_wm2_normal_head_wm2_mouthStretch_R",
+                                        "head_wm2_normal_head_wm2_neckStretch_L",
+                                        "head_wm2_normal_head_wm2_neckStretch_R",
+                                        "head_wm2_normal_head_wm2_noseWrinkler_L",
+                                        "head_wm2_normal_head_wm2_noseWrinkler_R",
+                                        "head_wm3_normal_head_wm3_cheekRaiseInner_L",
+                                        "head_wm3_normal_head_wm3_cheekRaiseInner_R",
+                                        "head_wm3_normal_head_wm3_cheekRaiseOuter_L",
+                                        "head_wm3_normal_head_wm3_cheekRaiseOuter_R",
+                                        "head_wm3_normal_head_wm3_cheekRaiseUpper_L",
+                                        "head_wm3_normal_head_wm3_cheekRaiseUpper_R",
+                                        "head_wm3_normal_head_wm3_smile_L",
+                                        "head_wm3_normal_head_wm3_smile_R",
+                                        "head_wm3_normal_head_wm13_lips_DL",
+                                        "head_wm3_normal_head_wm13_lips_DR",
+                                        "head_wm3_normal_head_wm13_lips_UL",
+                                        "head_wm3_normal_head_wm13_lips_UR",
+                                        "head_wm1_normal_head_wm13_lips_DL",
+                                        "head_wm1_normal_head_wm13_lips_DR",
+                                        "head_wm1_normal_head_wm13_lips_UL",
+                                        "head_wm1_normal_head_wm13_lips_UR",
+                                        "head_wm2_normal_head_wm2_noseCrease_L",
+                                        "head_wm2_normal_head_wm2_noseCrease_R",
+                                        "head_wm3_normal_head_wm3_browRaiseCorrection_L",
+                                        "head_wm3_normal_head_wm3_browRaiseCorrection_R",
+                                        "head_wm3_normal_head_wm3_smileNoseCrease_L",
+                                        "head_wm3_normal_head_wm3_smileNoseCrease_R"
+                                    ],
+                                    "WrinkleEaseStrength": [
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0,
+                                        50.0
+                                    ],
+                                    "WrinkleRuleWeights": [
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0,
+                                        1.0
+                                    ],
+                                    "WrinkleOverallWeight": 1.0
                                 }
                             },
                             "Std_Skin_Body": {
@@ -2267,7 +2455,7 @@
                                         "Detail Scale V": 0.11999999731779099,
                                         "Edge Fadeout": 1.0,
                                         "_Roughness": 0.10000000149011612,
-                                        "OpacityForBlink": 1.0
+                                        "OpacityForBlink": 0.9987000226974487
                                     }
                                 }
                             },
@@ -2359,7 +2547,7 @@
                                         "Detail Scale V": 0.11999999731779099,
                                         "Edge Fadeout": 1.0,
                                         "_Roughness": 0.10000000149011612,
-                                        "OpacityForBlink": 1.0
+                                        "OpacityForBlink": 0.9987000226974487
                                     }
                                 }
                             }

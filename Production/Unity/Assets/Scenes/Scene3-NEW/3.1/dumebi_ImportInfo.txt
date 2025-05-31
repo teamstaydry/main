@@ -1,5 +1,5 @@
-logType=None
-generation=None
+logType=HighQuality
+generation=G3Plus
 isLOD=false
 qualEyes=Parallax
 qualHair=TwoPass
@@ -8,6 +8,6 @@ tempHairBake=false
 bakeCustomShaders=true
 bakeSeparatePrefab=true
 shaderFlags=0
-animationSetup=false
-animationRetargeted=0
-rigOverride=None
+animationSetup=true
+animationRetargeted=2
+rigOverride=Humanoid

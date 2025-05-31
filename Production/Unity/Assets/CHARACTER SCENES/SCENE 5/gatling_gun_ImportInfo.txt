@@ -1,5 +1,5 @@
 logType=None
-generation=None
+generation=Unknown
 isLOD=false
 qualEyes=Parallax
 qualHair=TwoPass
@@ -10,4 +10,4 @@ bakeSeparatePrefab=true
 shaderFlags=0
 animationSetup=false
 animationRetargeted=0
-rigOverride=None
+rigOverride=Generic

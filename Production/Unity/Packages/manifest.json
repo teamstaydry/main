@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.soupday.cc3_unity_tools": "file:D:/STAY-DRY/FINAL SCENES/cc_unity_tools_URP-1.6.3.URP17/cc_unity_tools_URP-1.6.3.URP17",
+    "com.soupday.cc3_unity_tools": "file:cc_unity_tools_URP-1.6.3.URP17/cc_unity_tools_URP-1.6.3.URP17",
     "com.unity.ai.navigation": "2.0.5",
     "com.unity.cinemachine": "3.1.3",
     "com.unity.collab-proxy": "2.8.2",

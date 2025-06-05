@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53e304e73c11c424d9f5e7c6afb5fb2c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216249
+  packageName: OmniShade PBR - Physically Based Uber Shader
+  packageVersion: 1.3.0
+  assetPath: Assets/OmniShade PBR/Sample Scene URP/UniversalRenderPipelineAsset.asset
+  uploadId: 757147

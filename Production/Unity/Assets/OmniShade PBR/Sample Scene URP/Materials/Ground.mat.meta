@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6f6da3764ed3614fad83d5a1dceeccc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216249
+  packageName: OmniShade PBR - Physically Based Uber Shader
+  packageVersion: 1.3.0
+  assetPath: Assets/OmniShade PBR/Sample Scene URP/Materials/Ground.mat
+  uploadId: 757147

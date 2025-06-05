@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3eb4c48f719117241a8d40bb79da0bee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216249
+  packageName: OmniShade PBR - Physically Based Uber Shader
+  packageVersion: 1.3.0
+  assetPath: Assets/OmniShade PBR/Sample Scene URP/Animations/Grenadier Controller.controller
+  uploadId: 757147

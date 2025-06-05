@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a9b777040db64ed68cca033ae56fdd3
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 216249
+  packageName: OmniShade PBR - Physically Based Uber Shader
+  packageVersion: 1.3.0
+  assetPath: Assets/OmniShade PBR/Scripts/Editor/OmniShadePBR.Editor.asmdef
+  uploadId: 757147

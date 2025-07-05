@@ -261,7 +261,7 @@ public class OmniShadePBRGUI : ShaderGUI
 			if (prop.displayName.StartsWith("_") || prop.displayName.StartsWith("unity_"))
 				continue;
 			// Skip hidden vars
-			if (prop.flags == MaterialProperty.PropFlags.HideInInspector)
+			if (prop.propertyFlags == ShaderPropertyFlags.HideInInspector)
 				continue;
 			// Skip all caps
 			if (this.IsAllUpper(prop.displayName))
@@ -292,7 +292,7 @@ public class OmniShadePBRGUI : ShaderGUI
 		var label = this.GetDisplayLabel(prop.displayName);
 
 		// Show tiling/offset for textures
-		if (prop.type == MaterialProperty.PropType.Texture && label != "Reflection Map")
+		if (prop.propertyType == ShaderPropertyType.Texture && label != "Reflection Map")
 			materialEditor.TextureProperty(prop, label, true);
 		else {
 			var content = this.GetTooltip(label);

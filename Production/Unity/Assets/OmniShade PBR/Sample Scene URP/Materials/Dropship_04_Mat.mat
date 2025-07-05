@@ -27,11 +27,11 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: 5c42c2ae10c4d04408993ab15da9c222, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords:
-  - OCCLUSION_MAP_ON
-  - SHADOW_OVERLAY_ON
+  m_ValidKeywords: []
   m_InvalidKeywords:
   - METALLIC_MAP_ON
+  - OCCLUSION_MAP_ON
+  - SHADOW_OVERLAY_ON
   - _ALPHATEST_ON
   - _DISABLE_DECALS
   - _DISABLE_SSR_TRANSPARENT
@@ -280,7 +280,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 9
+  version: 10
 --- !u!114 &6230745303576262024
 MonoBehaviour:
   m_ObjectHideFlags: 11

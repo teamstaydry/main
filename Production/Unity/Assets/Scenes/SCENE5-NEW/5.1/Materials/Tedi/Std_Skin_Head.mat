@@ -235,7 +235,7 @@ Material:
     - _WrinkleValueSet1BR: {r: 0, g: 0, b: 0, a: 0}
     - _WrinkleValueSet2L: {r: 0, g: 0, b: 0, a: 0}
     - _WrinkleValueSet2R: {r: 0, g: 0, b: 0, a: 0}
-    - _WrinkleValueSet3DB: {r: 0, g: 0, b: 0, a: 0}
+    - _WrinkleValueSet3DB: {r: 0.04053069, g: 0.04053069, b: 0.04053069, a: 0.04053069}
     - _WrinkleValueSet3L: {r: 0, g: 0, b: 0, a: 0}
     - _WrinkleValueSet3R: {r: 0, g: 0, b: 0, a: 0}
     - _WrinkleValueSetBCCB: {r: 0, g: 0, b: 0, a: 0}

@@ -93,11 +93,9 @@
     <None Include="Assets\Scenes\NEW SCENE 3.2\3.2\lima_ImportInfo.txt" />
     <None Include="Assets\HouseFurniture\Shaders\M_POM.shader" />
     <None Include="Assets\Scenes\Scene3-NEW\3.2\tedi_ImportInfo.txt" />
-    <None Include="Assets\CHARACTER SCENES\scene1\scene 3.2\scene 3.2\mali_ImportInfo.txt" />
     <None Include="Assets\Scenes\Scene3-NEW\3.1\bennu_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene1\CC3_Base_Plus_1_ImportInfo.txt" />
     <None Include="Assets\Customizable SciFi Gun\03-Info\info.txt" />
-    <None Include="Assets\CHARACTER SCENES\scene1\scene 3.2\scene 3.2\dumebi_ImportInfo.txt" />
     <None Include="Assets\HouseFurniture\Shaders\M_Master.shader" />
     <None Include="Assets\CHARACTER SCENES\SCENE 5\SCENE 5\tedi_ImportInfo.txt" />
     <None Include="Assets\HouseFurniture\Shaders\M_Master_Metallic.shader" />
@@ -109,7 +107,6 @@
     <None Include="Assets\HouseFurniture\Shaders\M_Glass.shader" />
     <None Include="Assets\CHARACTER SCENES\6.1\lima_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene1\Toon_Neutral_F_0_ImportInfo.txt" />
-    <None Include="Assets\CHARACTER SCENES\scene1\scene 3.2\scene 3.2\bennu_ImportInfo.txt" />
     <None Include="Assets\Scenes\Scene3-NEW\3.2\dumebi_ImportInfo.txt" />
     <None Include="Assets\Scenes\Scene3-NEW\3.1\lima_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene1\CC3_Base_Plus_0_ImportInfo.txt" />
@@ -130,7 +127,6 @@
     <None Include="Assets\CHARACTER SCENES\scene 8\Tedi_ImportInfo.txt" />
     <None Include="Assets\Scenes\SCENE5-NEW\scene 5.2\Tedi_ImportInfo.txt" />
     <None Include="Assets\Scenes\SCENE5-NEW\5.1\Tedi_ImportInfo.txt" />
-    <None Include="Assets\CHARACTER SCENES\scene1\scene 3.2\scene 3.2\tedi_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene1\CC3_Base_Plus_ImportInfo.txt" />
     <None Include="Assets\Scenes\Scene3-NEW\3.1\kemji_ImportInfo.txt" />
     <None Include="Assets\Scenes\NEW SCENE 3.2\3.2\Tedi_ImportInfo.txt" />
@@ -145,7 +141,6 @@
     <None Include="Assets\Scenes\Scene3-NEW\3.1\mali_ImportInfo.txt" />
     <None Include="Assets\Scenes\Scene3-NEW\3.2\mali_ImportInfo.txt" />
     <None Include="Assets\HouseFurniture\Shaders\M_Fabric.shader" />
-    <None Include="Assets\CHARACTER SCENES\scene1\scene 3.2\scene 3.2\lima_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene 3.1\lima_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene 7\scene_7_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene 3.1\mali_ImportInfo.txt" />
@@ -159,7 +154,6 @@
     <None Include="Assets\VFX_Klaus\Prefabs\Hyper Casual FX Vol.2\ReadMe_Hyper Casual FX Vol.2.txt" />
     <None Include="Assets\Scenes\NEW SCENE 3.2\3.2\kemji_ImportInfo.txt" />
     <None Include="Assets\CHARACTER SCENES\scene1\Toon_Neutral_F_ImportInfo.txt" />
-    <None Include="Assets\CHARACTER SCENES\scene1\scene 3.2\scene 3.2\kemji_ImportInfo.txt" />
     <None Include="Assets\Scenes\Scene3-NEW\3.2\lima_ImportInfo.txt" />
     <None Include="Assets\Customizable SciFi Gun\01-Assets\01-Materials&amp;Textures\Gun_shader.shader" />
   </ItemGroup>

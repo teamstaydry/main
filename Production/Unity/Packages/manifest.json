@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "com.soupday.cc3_unity_tools": "file:cc_unity_tools_URP-1.6.3.URP17/cc_unity_tools_URP-1.6.3.URP17",
+    "com.unity.2d.enhancers": "1.0.0",
     "com.unity.ai.assistant": "1.0.0-pre.8",
     "com.unity.ai.generators": "1.0.0-pre.15",
     "com.unity.ai.inference": "2.2.1",
@@ -18,6 +19,7 @@
     "com.unity.test-framework": "1.5.1",
     "com.unity.timeline": "1.8.7",
     "com.unity.ugui": "2.0.0",
+    "com.unity.visual-compositor": "0.30.8-preview",
     "com.unity.visualscripting": "1.9.7",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",

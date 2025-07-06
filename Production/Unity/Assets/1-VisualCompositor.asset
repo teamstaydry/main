@@ -1,0 +1,510 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8237306649071164628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d5921db1d18c54bbd6c8a94376a933, type: 3}
+  m_Name: LayerNode
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.LayerNode
+  guid: 69e5dbf0-862a-47f5-9cfb-ed6306df1ce8
+  groupGuid: 
+  position: {x: 0, y: 0}
+  renderEnabled: 1
+  title: LayerNode
+  isPinned: 0
+  pinnedPosition: {x: 0, y: 0}
+  _nodeUIState:
+    m_isExpanded: 1
+  portedFieldsContainer: []
+  m_initialized: 1
+  m_exposeAsComponent: 0
+  m_config:
+    opacity: 0.608
+  m_proxy: {fileID: 0}
+  enabled: 1
+  blendMode: 17
+  useInputAlpha: 1
+  maskChannel: 3
+  premultipliedAlpha: 0
+  m_exportMode: 0
+  m_rtExporter:
+    m_exportRenderTexture:
+      overrideState: 1
+      value: {fileID: 0}
+--- !u!114 &-7997688068196549406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: 'af0379ae-4392-4d50-a783-eac0627cc5b9: DrawnEdgesNode.output -> LayerNode.input'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -5202401846138966767}
+  output: {fileID: -7084459019494702734}
+  inputFieldName: input
+  outputFieldName: output
+  guid: af0379ae-4392-4d50-a783-eac0627cc5b9
+  useProperty: 0
+--- !u!114 &-7992514340373252683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: 'e77cbc2b-e926-447d-bb98-6e705075a3ee: RenderingNode.normals -> OutlineNode.normalTexture'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -513545552568596144}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: normalTexture
+  outputFieldName: normals
+  guid: e77cbc2b-e926-447d-bb98-6e705075a3ee
+  useProperty: 1
+--- !u!114 &-7084459019494702734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9abea4d9493943df9a60c281e88f2e92, type: 3}
+  m_Name: DrawnEdgesNode
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.DrawnEdgesNode
+  guid: 33762ba5-cd36-44fa-bd41-8925793a04df
+  groupGuid: 
+  position: {x: 276.66666, y: 368}
+  renderEnabled: 1
+  title: DrawnEdgesNode
+  isPinned: 0
+  pinnedPosition: {x: 0, y: 0}
+  _nodeUIState:
+    m_isExpanded: 1
+  portedFieldsContainer: []
+  m_initialized: 1
+  m_exposeAsComponent: 0
+  m_config:
+    depthThreshold: 0.127
+    normalThreshold: 0.01
+    hueThreshold: 0.085
+    luminanceThreshold: 1
+    dilationPasses: 16
+    contractionPasses: 64
+    color: {r: 0, g: 0, b: 0, a: 1}
+  m_proxy: {fileID: 0}
+  input: {fileID: 0}
+  output: {fileID: 0}
+  normals: {fileID: 0}
+  depth: {fileID: 0}
+  size:
+    m_outputSize: 0
+    m_customValue: {x: 1920, y: 1080}
+    x: 0
+    y: 0
+    m_version: 2
+--- !u!114 &-5332089987093749864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: '30183f9b-6110-4ecf-bcce-ceeb84a59ab4: RenderingNode.output -> LayerNode.input'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -3098028515207464114}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: input
+  outputFieldName: output
+  guid: 30183f9b-6110-4ecf-bcce-ceeb84a59ab4
+  useProperty: 0
+--- !u!114 &-5202401846138966767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d5921db1d18c54bbd6c8a94376a933, type: 3}
+  m_Name: LayerNode
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.LayerNode
+  guid: 2d618d2a-2cc4-4811-992e-a516912e0c3f
+  groupGuid: 
+  position: {x: 0, y: 0}
+  renderEnabled: 1
+  title: LayerNode
+  isPinned: 0
+  pinnedPosition: {x: 0, y: 0}
+  _nodeUIState:
+    m_isExpanded: 1
+  portedFieldsContainer: []
+  m_initialized: 1
+  m_exposeAsComponent: 0
+  m_config:
+    opacity: 1
+  m_proxy: {fileID: 0}
+  enabled: 1
+  blendMode: 2
+  useInputAlpha: 1
+  maskChannel: 3
+  premultipliedAlpha: 0
+  m_exportMode: 0
+  m_rtExporter:
+    m_exportRenderTexture:
+      overrideState: 1
+      value: {fileID: 0}
+--- !u!114 &-4632075583069173597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: 'c5c9bf33-1fe3-4f32-8969-b490975c3fa5: RenderingNode.depth -> DrawnEdgesNode.depth'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -7084459019494702734}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: depth
+  outputFieldName: depth
+  guid: c5c9bf33-1fe3-4f32-8969-b490975c3fa5
+  useProperty: 1
+--- !u!114 &-4013165285417480488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: '89e66f65-3225-4af0-aec0-d5cce9a63dcf: RenderingNode.normals -> DrawnEdgesNode.normals'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -7084459019494702734}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: normals
+  outputFieldName: normals
+  guid: 89e66f65-3225-4af0-aec0-d5cce9a63dcf
+  useProperty: 1
+--- !u!114 &-3550129749401242559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a153ecc1e0509478c2da5dc293ab68, type: 3}
+  m_Name: FinalOutputNode
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.FinalOutputNode
+  guid: 4ca69347-a078-4eb9-889c-5c235c251f8d
+  groupGuid: 
+  position: {x: 0, y: 0}
+  renderEnabled: 1
+  title: FinalOutputNode
+  isPinned: 0
+  pinnedPosition: {x: 0, y: 0}
+  _nodeUIState:
+    m_isExpanded: 1
+  portedFieldsContainer: []
+  m_initialized: 1
+  m_cameraRef:
+    exposedName: e73797d2546d0e04caaae548701bf447
+    defaultValue: {fileID: 0}
+  m_volumeProfile:
+    overrideState: 1
+    value: {fileID: 0}
+  m_volumeController:
+    m_globalVolumeRef:
+      exposedName: 0ba9e9773e4cb5a4bba0026e3f32902e
+      defaultValue: {fileID: 0}
+  m_enabled: 0
+--- !u!114 &-3098028515207464114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81d5921db1d18c54bbd6c8a94376a933, type: 3}
+  m_Name: LayerNode
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.LayerNode
+  guid: 04ae8ad3-e511-40c3-9eb1-ab688f79921b
+  groupGuid: 
+  position: {x: 988.6667, y: 20}
+  renderEnabled: 1
+  title: LayerNode
+  isPinned: 0
+  pinnedPosition: {x: 0, y: 0}
+  _nodeUIState:
+    m_isExpanded: 1
+  portedFieldsContainer: []
+  m_initialized: 0
+  m_exposeAsComponent: 0
+  m_config:
+    opacity: 1
+  m_proxy: {fileID: 0}
+  enabled: 1
+  blendMode: 17
+  useInputAlpha: 1
+  maskChannel: 3
+  premultipliedAlpha: 0
+  m_exportMode: 0
+  m_rtExporter:
+    m_exportRenderTexture:
+      overrideState: 1
+      value: {fileID: 0}
+--- !u!114 &-513545552568596144
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b19eaafed33e024fbd9a19b51797e1a, type: 3}
+  m_Name: OutlineNode
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.OutlineNode
+  guid: bf59c859-fe97-4e13-901e-7dbd3533c086
+  groupGuid: 
+  position: {x: 504, y: -344.66666}
+  renderEnabled: 1
+  title: OutlineNode
+  isPinned: 0
+  pinnedPosition: {x: 0, y: 0}
+  _nodeUIState:
+    m_isExpanded: 1
+  portedFieldsContainer: []
+  m_initialized: 1
+  m_exposeAsComponent: 0
+  m_config:
+    normalSensitivity: 150
+    depthSensitivity: 1
+    uvSensitivity: 0.5
+    sampleDistance: 0.67
+    lineThickness: 0.001
+    outlineColor: {r: 0, g: 0, b: 0, a: 1}
+  m_proxy: {fileID: 0}
+  size:
+    m_outputSize: 0
+    m_customValue: {x: 1920, y: 1080}
+    x: 0
+    y: 0
+    m_version: 2
+  m_bgColor: {r: 0, g: 0, b: 0, a: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75a5ba7e25024bdc8c2b08d4ce788a16, type: 3}
+  m_Name: 1-VisualCompositor
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorGraph
+  nodes:
+  - {fileID: 3126654693451301958}
+  - {fileID: -513545552568596144}
+  - {fileID: -7084459019494702734}
+  edges:
+  - {fileID: -5332089987093749864}
+  - {fileID: 2066264059025114903}
+  - {fileID: 2162630373944718723}
+  - {fileID: -7992514340373252683}
+  - {fileID: 8519099060900017608}
+  - {fileID: 2844947979325353104}
+  - {fileID: 6137104833668391020}
+  - {fileID: -4013165285417480488}
+  - {fileID: -4632075583069173597}
+  - {fileID: -7997688068196549406}
+  layers:
+  - {fileID: -3098028515207464114}
+  - {fileID: -8237306649071164628}
+  - {fileID: -5202401846138966767}
+  groups: []
+  layerStackPosition: {x: 952, y: -25.333334}
+  finalOutputNode: {fileID: -3550129749401242559}
+  m_isInitialized: 1
+  rootGraph: {fileID: 11400000}
+  snapshotPaths: []
+  _compositorGraphVersion: 1
+  bookmarks: []
+--- !u!114 &2066264059025114903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: 'f4ed6117-4312-4104-af66-67ddc069b84c: RenderingNode.output -> OutlineNode.sceneTexture'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -513545552568596144}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: sceneTexture
+  outputFieldName: output
+  guid: f4ed6117-4312-4104-af66-67ddc069b84c
+  useProperty: 0
+--- !u!114 &2162630373944718723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: '79012cd9-b739-4c1b-9db4-ff2891c66a89: RenderingNode.depth -> OutlineNode.depthTexture'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -513545552568596144}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: depthTexture
+  outputFieldName: depth
+  guid: 79012cd9-b739-4c1b-9db4-ff2891c66a89
+  useProperty: 1
+--- !u!114 &2844947979325353104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: '84ea0075-7e9c-496a-93c6-4eb175c72097: OutlineNode.output -> LayerNode.input'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -8237306649071164628}
+  output: {fileID: -513545552568596144}
+  inputFieldName: input
+  outputFieldName: output
+  guid: 84ea0075-7e9c-496a-93c6-4eb175c72097
+  useProperty: 0
+--- !u!114 &3126654693451301958
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c60a04a9172dea34da5cc24c941eb990, type: 3}
+  m_Name: RenderingNode
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.RenderingNode
+  guid: c3a5f47f-d56f-4950-9a16-5fddb2966066
+  groupGuid: 
+  position: {x: -169.33333, y: -128.66666}
+  renderEnabled: 1
+  title: RenderingNode
+  isPinned: 0
+  pinnedPosition: {x: 0, y: 0}
+  _nodeUIState:
+    m_isExpanded: 1
+  portedFieldsContainer: []
+  m_initialized: 0
+  size:
+    m_outputSize: 0
+    m_customValue: {x: 1920, y: 1080}
+    x: 0
+    y: 0
+    m_version: 2
+  camera:
+    exposedName: 3721708e94fd4604b82ac220ae5d68d7
+    defaultValue: {fileID: 0}
+  _renderMaterial:
+    overrideState: 0
+    value: {fileID: 0}
+  _lightShadows:
+    overrideState: 0
+    value: 0
+  includeChildRenderers: 1
+  output: {fileID: 0}
+  _cullingMask:
+    overrideState: 0
+    value:
+      serializedVersion: 2
+      m_Bits: 4294967295
+  clearFlags:
+    overrideState: 0
+    value: 2
+  backgroundColor:
+    overrideState: 0
+    value: {r: 0, g: 0, b: 0, a: 1}
+  forceBackgroundAlphaToZero: 0
+  globalVolume:
+    overrideState: 0
+    value: {fileID: 0}
+  antialiasing: 0
+  antialiasingQuality: 0
+  m_renderDepthMaterial: {fileID: 2100000, guid: 5da309daf2bf81a40a2c329e40aa56a3, type: 2}
+  m_volumeController:
+    m_globalVolumeRef:
+      exposedName: 
+      defaultValue: {fileID: 0}
+--- !u!114 &6137104833668391020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: 'e3c037d2-8764-4b2a-9100-6fbc8a42a24d: RenderingNode.output -> DrawnEdgesNode.input'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -7084459019494702734}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: input
+  outputFieldName: output
+  guid: e3c037d2-8764-4b2a-9100-6fbc8a42a24d
+  useProperty: 0
+--- !u!114 &8519099060900017608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd54056a23d0e6e42ac3033150305e31, type: 3}
+  m_Name: 'c07c15bd-9d02-4424-b07f-91b9f4401cd9: RenderingNode.uvs -> OutlineNode.uvTexture'
+  m_EditorClassIdentifier: Unity.VisualCompositor::Unity.VisualCompositor.CompositorEdge
+  input: {fileID: -513545552568596144}
+  output: {fileID: 3126654693451301958}
+  inputFieldName: uvTexture
+  outputFieldName: uvs
+  guid: c07c15bd-9d02-4424-b07f-91b9f4401cd9
+  useProperty: 1

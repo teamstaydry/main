@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>3850d1dab65ed104dad414e8fe272807</guid>
+    <fileName>Assets/Plugins/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2024-06-01T14:39:43+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetCollector</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a03d52cd53363e428aec56184d4000a</guid>
+    <fileName>Assets/Plugins/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T14:39:43+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.AssetReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02a35bd23ec69674a84bd4d2d4666e0f</guid>
+    <fileName>Assets/Plugins/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T14:39:43+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ClassReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>104e4e5ce75098847a70ac6b2a44c10e</guid>
+    <fileName>Assets/Plugins/Editor/CollectionData.cs</fileName>
+    <timeStamp>2024-06-01T14:39:43+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.CollectionData</string>
+      <string>UnitySweeper.TypeDate</string>
+      <string>UnitySweeper.IReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ecdd62fc90dd78340975bc9e936a85d8</guid>
+    <fileName>Assets/Plugins/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2024-06-01T14:39:43+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db327dce14c741942a16748248335962</guid>
+    <fileName>Assets/Plugins/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2024-06-01T14:39:43+01:00</timeStamp>
+    <typeFullName>
+      <string>UnitySweeper.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9b852c385caccb24dade2e56ae0f4b99</guid>
+    <fileName>Assets/OmniShade PBR/Scripts/OmniShadePBR.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.3528373+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fd00422b72ad65e4087d465a3bfd35d5</guid>
+    <fileName>Assets/OmniShade PBR/Scripts/OmniShadePBRAnimateTexture.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.3567183+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fcf7219bab7fe46a1ad266029b2fee19</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Readme.cs</fileName>
+    <timeStamp>2025-07-04T13:04:52.8360948+01:00</timeStamp>
+    <typeFullName>
+      <string>Readme</string>
+      <string>Readme+Section</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1f8b9d85d920bc042a7f4ad66be17a7a</guid>
+    <fileName>Assets/VFX_Klaus/Scripts/ProjectileMove.cs</fileName>
+    <timeStamp>2025-07-04T13:04:54.3661302+01:00</timeStamp>
+    <typeFullName>
+      <string>ProjectileMove</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b24bd2ad771e814abb7ad2963d65394</guid>
+    <fileName>Assets/VFX_Klaus/Scripts/RotateToMouse.cs</fileName>
+    <timeStamp>2025-07-04T13:04:54.3691986+01:00</timeStamp>
+    <typeFullName>
+      <string>RotateToMouse</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a8771cbaf3d4f346b5093a54b666365</guid>
+    <fileName>Assets/VFX_Klaus/Scripts/SpawnProjectiles.cs</fileName>
+    <timeStamp>2025-07-04T13:04:54.3703909+01:00</timeStamp>
+    <typeFullName>
+      <string>SpawnProjectiles</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>230a7801e5c5d2941a260a70a4e916dc</guid>
+    <fileName>Assets/OmniShade PBR/Scripts/Editor/OmniShadePBRGUI.cs</fileName>
+    <timeStamp>2025-07-04T22:56:49.5891897+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ebcd7220960ec5489ffaa0f162602bc</guid>
+    <fileName>Assets/OmniShade PBR/Scripts/Editor/RenderingPipelineDefines.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.3449781+01:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>370a1d629dd1a9c4888f0c6f2dc8a6f5</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/BindingPoints.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.7628096+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.BindingPoints</string>
+      <string>PixPlays.ElementalVFX.BindingPoints+BindingPointData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e7f9fe30449431468e41dd0db119663</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/BindingPointType.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.7562007+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.BindingPointType</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e9b53c087e71254bba0bb30969c1995</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/Character.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.7681533+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.Character</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf751bd706db8bb49a727ad44771b6f4</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/IHittable.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.7748127+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.IHittable</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>34c90761894663a459ee1d0c0af7f53e</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VFXTester.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.7815388+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.VFXTester</string>
+      <string>PixPlays.ElementalVFX.VFXTester+TestingData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>476cc7d7cd9874016adc216baab94a0a</guid>
+    <fileName>Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs</fileName>
+    <timeStamp>2025-07-04T13:04:52.8318645+01:00</timeStamp>
+    <typeFullName>
+      <string>ReadmeEditor</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9acc547824e458345b4524902b21069d</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxAddons/ParticleSystemScaleLifetime.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.7894513+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.ParticleSystemScaleLifetime</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>255c58e12f3e05245afde891bf9647ea</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxAddons/ParticleSystemStartStopLifetime.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.7972212+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.ParticleSystemStartStopLifetime</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>da1b031a13b76d34892fdc5af6a0d348</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxAddons/TrailScaleWithHierarchy.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8039105+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.TrailScaleWithHierarchy</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9e63092aa3556dc46b67238b9f26f929</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/BaseVfx.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8174405+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.BaseVfx</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a960bc488c2f3048a90116f91a3eaea</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/LocationVfx.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8300901+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.LocationVfx</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86361429be8c3a8429bb99c19a4d6b70</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/ParticleSystemVfx.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8352039+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.ParticleSystemVfx</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>223d7af450bebc947a88a9da44ac257f</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/PlayableVfx.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8405607+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.PlayableVfx</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dcc0b5030ddf4124da4c7b09c7b00b2a</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/ProjectileVfx.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8439735+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.ProjectileVfx</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d8d617b489c1ef45874289fd9f9a539</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/VfxData.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.865442+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.VfxData</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79386e8892a8edd4ea3e6f3184e5e32b</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/VfxReference.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8704462+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.VfxReference</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4bb58f4e88a6323459deaf4cddb06797</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/AOE/WindAoeVfx.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8140533+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.WindAoeVfx</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d4a9fd255959ecd4ba215bccc466f49f</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/Beams/BeamVfx.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8234404+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.BeamVfx</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2308ce2b8d650e947a4e5a2282671f81</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/Shields/EarthShield.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8511288+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.EarthShield</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba0ceba87b484834fbd93d5eb6bd97f7</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/Shields/ParticleSystemShield.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8542132+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.ParticleSystemShield</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f5e5e7844aa51d49b287c6aeeba72a7</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/Shields/Shield.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8571202+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.Shield</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cce16e37289a5c848b032b5d23f27bc6</guid>
+    <fileName>Assets/PixPlays/Components/Scripts/VfxSystem/Shields/WaterShield.cs</fileName>
+    <timeStamp>2025-07-04T13:03:48.8607488+01:00</timeStamp>
+    <typeFullName>
+      <string>PixPlays.ElementalVFX.WaterShield</string>
+    </typeFullName>
+    <assembly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assembly>
+  </TypeDate>
+</ArrayOfTypeDate>

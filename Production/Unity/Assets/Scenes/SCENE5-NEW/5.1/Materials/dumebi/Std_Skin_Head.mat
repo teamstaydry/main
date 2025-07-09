@@ -227,17 +227,17 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 0}
     - _SubsurfaceFalloff: {r: 1, g: 0.36862746, b: 0.29803923, a: 1}
-    - _WrinkleValueSet12CL: {r: 0.009519178, g: 0.009519178, b: 0, a: 0}
-    - _WrinkleValueSet12CR: {r: 0.009519178, g: 0.009519178, b: 0, a: 0}
-    - _WrinkleValueSet1AL: {r: 0, g: 0, b: 0.009135285, a: 0.009135285}
-    - _WrinkleValueSet1AR: {r: 0, g: 0, b: 0.009135285, a: 0.009135285}
-    - _WrinkleValueSet1BL: {r: 0, g: 0.0045676427, b: 0.00075616594, a: 0}
-    - _WrinkleValueSet1BR: {r: 0, g: 0.0045676427, b: 0.00075616594, a: 0}
-    - _WrinkleValueSet2L: {r: 0.00021146482, g: 0.0021146482, b: 0, a: 0}
-    - _WrinkleValueSet2R: {r: 0.00021339305, g: 0.0021339306, b: 0, a: 0.0011813303}
-    - _WrinkleValueSet3DB: {r: 0, g: 0, b: 0, a: 0}
-    - _WrinkleValueSet3L: {r: 0, g: 0, b: 0, a: 0}
-    - _WrinkleValueSet3R: {r: 0, g: 0.00032905117, b: 0, a: 0.0004387349}
-    - _WrinkleValueSetBCCB: {r: 0, g: 0, b: 0, a: 0}
+    - _WrinkleValueSet12CL: {r: 0.5169232, g: 0.5169232, b: 0.046651285, a: 0.0023554228}
+    - _WrinkleValueSet12CR: {r: 0.5169232, g: 0.5169232, b: 0.046978753, a: 0.0024353515}
+    - _WrinkleValueSet1AL: {r: 0, g: 0.544902, b: 0.5151447, a: 0.5151447}
+    - _WrinkleValueSet1AR: {r: 0, g: 0.5442754, b: 0.5151447, a: 0.5151447}
+    - _WrinkleValueSet1BL: {r: 1, g: 0.30922022, b: 0.3871556, a: 0.081393786}
+    - _WrinkleValueSet1BR: {r: 1, g: 0.30922022, b: 0.3871556, a: 0.08118332}
+    - _WrinkleValueSet2L: {r: 0.072366625, g: 0, b: 0.26095358, a: 0.020052522}
+    - _WrinkleValueSet2R: {r: 0.07263887, g: 0, b: 0.2680136, a: 0.018834278}
+    - _WrinkleValueSet3DB: {r: 0.32481182, g: 0.32496786, b: 0.32481182, a: 0.32496786}
+    - _WrinkleValueSet3L: {r: 0.04022409, g: 0.04022409, b: 0.039739616, a: 0.0009689502}
+    - _WrinkleValueSet3R: {r: 0.023694212, g: 0.025218606, b: 0.023131711, a: 0.0031575253}
+    - _WrinkleValueSetBCCB: {r: 0.45509797, g: 0.45572463, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -7,3 +7,4 @@ Production/Unity/OmniShadePBR.csproj
 Production/Unity/OmniShadePBR.Editor.csproj
 Production/Unity/soupday.cc3_unity_tools.editor.csproj
 Production/Unity/soupday.cc3_unity_tools.runtime.csproj
+*.csproj

@@ -263,7 +263,7 @@ MonoBehaviour:
   _nodeUIState:
     m_isExpanded: 1
   portedFieldsContainer: []
-  m_initialized: 0
+  m_initialized: 1
   m_exposeAsComponent: 0
   m_config:
     opacity: 1
@@ -432,7 +432,7 @@ MonoBehaviour:
   _nodeUIState:
     m_isExpanded: 1
   portedFieldsContainer: []
-  m_initialized: 0
+  m_initialized: 1
   size:
     m_outputSize: 0
     m_customValue: {x: 1920, y: 1080}

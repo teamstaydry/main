@@ -227,17 +227,17 @@ Material:
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _EmissiveColor: {r: 0, g: 0, b: 0, a: 0}
     - _SubsurfaceFalloff: {r: 1, g: 0.36862746, b: 0.29803923, a: 1}
-    - _WrinkleValueSet12CL: {r: 0.000006762329, g: 0.000006762329, b: 0, a: 0}
-    - _WrinkleValueSet12CR: {r: 0.000006762329, g: 0.000006762329, b: 0, a: 0}
-    - _WrinkleValueSet1AL: {r: 0, g: 0, b: 0.000006762329, a: 0.000006762329}
-    - _WrinkleValueSet1AR: {r: 0, g: 0, b: 0.000006762329, a: 0.000006762329}
-    - _WrinkleValueSet1BL: {r: 0.08844442, g: 0.0000033811646, b: 0.00000007183161, a: 0.032573506}
-    - _WrinkleValueSet1BR: {r: 0.08844442, g: 0.0000033811646, b: 0.00000007183161, a: 0.03232281}
-    - _WrinkleValueSet2L: {r: 0.020920835, g: 0.123417266, b: 0.08944272, a: 0.061085407}
-    - _WrinkleValueSet2R: {r: 0.020955576, g: 0.12376467, b: 0.08944272, a: 0}
-    - _WrinkleValueSet3DB: {r: 0, g: 0, b: 0, a: 0}
-    - _WrinkleValueSet3L: {r: 0, g: 0, b: 0, a: 0}
-    - _WrinkleValueSet3R: {r: 0, g: 0, b: 0, a: 0}
-    - _WrinkleValueSetBCCB: {r: 0.08844442, g: 0.08844442, b: 0, a: 0}
+    - _WrinkleValueSet12CL: {r: 0.0001912274, g: 0.0001912274, b: 0.00013917524, a: 0.000041831383}
+    - _WrinkleValueSet12CR: {r: 0.0001912274, g: 0.0001912274, b: 0, a: 0.000018323764}
+    - _WrinkleValueSet1AL: {r: 0.011655692, g: 0, b: 0.0001912274, a: 0.0001912274}
+    - _WrinkleValueSet1AR: {r: 0.011625911, g: 0, b: 0.0001912274, a: 0.0001912274}
+    - _WrinkleValueSet1BL: {r: 0.03358765, g: 0.0000956137, b: 0.0013115907, a: 0.086742885}
+    - _WrinkleValueSet1BR: {r: 0.03358765, g: 0.0000956137, b: 0.0013115907, a: 0.08624711}
+    - _WrinkleValueSet2L: {r: 0.03764298, g: 0.3434912, b: 0.08944272, a: 0.047471464}
+    - _WrinkleValueSet2R: {r: 0.024001297, g: 0.20707437, b: 0.09055057, a: 0.014413512}
+    - _WrinkleValueSet3DB: {r: 0.000000065232484, g: 0.00000017781119, b: 0.000000065232484, a: 0.00000017781119}
+    - _WrinkleValueSet3L: {r: 0.0013628908, g: 0.0013628908, b: 0.0013628582, a: 0.000000065232484}
+    - _WrinkleValueSet3R: {r: 0.00049996434, g: 0.00049996434, b: 0.00049987546, a: 0.00000017781119}
+    - _WrinkleValueSetBCCB: {r: 0.03358765, g: 0.03358765, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

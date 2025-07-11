@@ -1036,6 +1036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 186742166}
   - component: {fileID: 186742165}
+  - component: {fileID: 186742167}
   m_Layer: 0
   m_Name: Camera_Shot10
   m_TagString: Untagged
@@ -1101,6 +1102,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 2.504, y: -213.414, z: -1.144}
+--- !u!114 &186742167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 186742164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineVolumeSettings
+  Weight: 1
+  FocusTracking: 4
+  FocusTarget: {fileID: 0}
+  FocusOffset: 2.28
+  Profile: {fileID: 11400000, guid: 43e9967e901d035459298d3e368a5807, type: 2}
 --- !u!1 &189461235
 GameObject:
   m_ObjectHideFlags: 0
@@ -1399,6 +1417,12 @@ PlayableDirector:
     value: {fileID: 673902446}
   - key: {fileID: -8029756552353394966, guid: efd7e4fbed39e7d459dcd548023dc90e, type: 2}
     value: {fileID: 961739754}
+  - key: {fileID: -3743715019920477024, guid: efd7e4fbed39e7d459dcd548023dc90e, type: 2}
+    value: {fileID: 1412878190}
+  - key: {fileID: 5337840028810290672, guid: efd7e4fbed39e7d459dcd548023dc90e, type: 2}
+    value: {fileID: 2005125082}
+  - key: {fileID: 6067175689168816767, guid: efd7e4fbed39e7d459dcd548023dc90e, type: 2}
+    value: {fileID: 1045006841}
   m_ExposedReferences:
     m_References:
     - 0d458c26e1bc2f14a851e9adeb18190b: {fileID: 1313826222}
@@ -1672,6 +1696,7 @@ GameObject:
   m_Component:
   - component: {fileID: 261710804}
   - component: {fileID: 261710803}
+  - component: {fileID: 261710805}
   m_Layer: 0
   m_Name: Camera_Shot16
   m_TagString: Untagged
@@ -1737,6 +1762,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 1.287, y: 190.927, z: 2.953}
+--- !u!114 &261710805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 261710802}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineVolumeSettings
+  Weight: 1
+  FocusTracking: 4
+  FocusTarget: {fileID: 0}
+  FocusOffset: 1.78
+  Profile: {fileID: 11400000, guid: 43e9967e901d035459298d3e368a5807, type: 2}
 --- !u!1001 &268541731
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4461,8 +4503,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 446645473}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.0043504005, y: -0.2031586, z: -0.00090265437, w: 0.9791358}
-  m_LocalPosition: {x: 0.82391953, y: 6.2314773, z: -0.12740588}
+  m_LocalRotation: {x: -0.004838004, y: -0.1850854, z: -0.00091119827, w: 0.9827101}
+  m_LocalPosition: {x: 0.5830239, y: 1.3927453, z: 0.132895}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8897,6 +8939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1127243286}
   - component: {fileID: 1127243285}
+  - component: {fileID: 1127243287}
   m_Layer: 0
   m_Name: Camera_Shot17 (2)
   m_TagString: Untagged
@@ -8962,6 +9005,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 32.725, y: 533.753, z: 3.02}
+--- !u!114 &1127243287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1127243284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineVolumeSettings
+  Weight: 1
+  FocusTracking: 4
+  FocusTarget: {fileID: 0}
+  FocusOffset: 2.48
+  Profile: {fileID: 11400000, guid: 43e9967e901d035459298d3e368a5807, type: 2}
 --- !u!1 &1127999033
 GameObject:
   m_ObjectHideFlags: 0
@@ -9687,7 +9747,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 5bb843080065381419fffa579ccd3139, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb843080065381419fffa579ccd3139, type: 3}
       propertyPath: m_LocalScale.x
@@ -9962,8 +10022,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1434641717}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.037618354, y: 0, z: 0, w: 0.9992922}
-  m_LocalPosition: {x: -1.7081068, y: 1.1220925, z: -2.4543366}
+  m_LocalRotation: {x: -0.03762737, y: 0.00006652739, z: 0.0000025050247, w: 0.99929184}
+  m_LocalPosition: {x: -1.7128679, y: 1.1220925, z: -2.4517686}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13649,6 +13709,7 @@ GameObject:
   - component: {fileID: 1873299330}
   - component: {fileID: 1873299329}
   - component: {fileID: 1873299328}
+  - component: {fileID: 1873299332}
   m_Layer: 0
   m_Name: Camera_Walkin_KnM 2
   m_TagString: Untagged
@@ -13746,6 +13807,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1873299332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1873299327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineVolumeSettings
+  Weight: 1
+  FocusTracking: 4
+  FocusTarget: {fileID: 0}
+  FocusOffset: 2.17
+  Profile: {fileID: 11400000, guid: 43e9967e901d035459298d3e368a5807, type: 2}
 --- !u!1 &1912137267
 GameObject:
   m_ObjectHideFlags: 0
@@ -13914,6 +13992,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1995211264}
   - component: {fileID: 1995211263}
+  - component: {fileID: 1995211265}
   m_Layer: 0
   m_Name: Camera_Shot17 (3)
   m_TagString: Untagged
@@ -13979,6 +14058,23 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 4.668, y: 466.016, z: 4.366}
+--- !u!114 &1995211265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1995211262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ef5ebbe24720439ec31d15f7b6f3d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.Cinemachine::Unity.Cinemachine.CinemachineVolumeSettings
+  Weight: 1
+  FocusTracking: 4
+  FocusTarget: {fileID: 0}
+  FocusOffset: 2.28
+  Profile: {fileID: 11400000, guid: 43e9967e901d035459298d3e368a5807, type: 2}
 --- !u!1001 &2005125080
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13993,7 +14089,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 5bb843080065381419fffa579ccd3139, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 5bb843080065381419fffa579ccd3139, type: 3}
       propertyPath: m_LocalScale.x

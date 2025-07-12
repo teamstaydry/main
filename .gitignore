@@ -10,3 +10,4 @@ Production/Unity/soupday.cc3_unity_tools.runtime.csproj
 *.csproj
 Production/Unity/UserSettings/EditorUserSettings.asset
 /Production/Unity/BackupUnusedAssets
+*.sln
